@@ -1,2 +1,11 @@
 # Python  - Curso em Video
- Exercicios de Python desde que comecei no curso em video.
+
+Sejam Bem Vindos! - Welcome!
+
+Segue meu progresso em Python minha primeira linguagem de T.I. desde que voltei a me interessar pela área.
+
+Pretendo estar atualizando a lista todos os dias que possivel e gerando conteúdo atravéz de códigos conforme vou evoluindo na programação.
+
+Att,
+
+Gustavo Castanho.
