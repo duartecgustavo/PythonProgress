@@ -12,6 +12,5 @@ The course that I learning is offer by Curso em Video channel in Youtube. Your c
 Pretendo estar atualizando a lista todos os dias que possivel e gerando conteúdo atravéz de códigos conforme vou evoluindo na programação.
 I intend to be updating the list every day that I can, generating content throuth of my codes as I evolve.
 
-Att,
 
-Gustavo Castanho.
+![Assinatura1 1](https://user-images.githubusercontent.com/65131471/84540714-5a820e00-accc-11ea-9ad4-57ef348ead4b.jpg)
