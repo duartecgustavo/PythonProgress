@@ -1,0 +1,21 @@
+
+## Básico sobre Python:
+*Primeiros passos..*
+
+### Comando `print`:
+`print ('Fora bozo')`
+
+Com este comando você apresenta uma mensagem no terminal.
+
+
+### Comando `input`:
+`nome = input('Diga uma frase: ')`
+
+Com o comando input você irá apresentar um campo de pergunta no terminal. Atribuindo sempre à algo, no caso acima o nome que sera digitado.
+
+
+---
+
+### Juntando `print` com `input`:
+`frase = input('Diga uma frase: ')` - resposta '*fora bozo*'
+# Agora a frase vale '*fora bozo*'.
