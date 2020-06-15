@@ -22,7 +22,7 @@ I intend to be updating the list every day that I can, generating content throut
    *  Composto de 41 videos.
    - Sendo **5 aulas** que passam por um transição entre o básico e o intermediario, apresentando e aprofundando em temas como o uso de
    operadores condicionais `if`, `elif` e `else` e estruturas de repetição como `for` e `while`.
-   - Contém **36 desafios* praticos sobre os conceitos abordados.
+   - Contém **36 desafios** praticos sobre os conceitos abordados.
 
 ### - [ ] Mundo 3 - Loading. . 
 
