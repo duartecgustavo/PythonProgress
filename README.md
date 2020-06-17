@@ -3,8 +3,8 @@
 Sejam Bem Vindos!
 Welcome!
 
-Segue meu progresso em **Python**, minha primeira linguagem de T.I. desde que voltei a me interessar pela área.
-Here is my progress in **Python** Language since I did back to learn T.I. Python is my first language.
+Segue meu progresso em **Python**, minha primeira linguagem de TI. desde que voltei a me interessar pela área.
+Here is my progress in **Python** Language since I did back to learn IT. Python is my first language.
 
 O curso que estou estudando é oferecido pelo canal *Curso em Video* no Youtube. Seu conteúdo é **totalmente gratuito** e de extrema qualidade.
 The course that I learning is offer by *Curso em Video* channel in Youtube. Your content is **totaly free** and of extreme quality.
