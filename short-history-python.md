@@ -17,7 +17,7 @@ O nome da serpente **Python** foi dado em referencia a outra coisa fora do mundo
 
 ---
 
-### Evolução:
+### Evolução :robot:
 
 A linguagem cresceu tanto que em 2001 foi criada a fundação ``python software fundation`` quem em conjunto com os usuarios cria as novas versões dp **Python**.
 
@@ -29,7 +29,7 @@ Hoje também já existem sistemas completamente baseados em **Python** como o **
 ---
 
 
-### Algumas caracteristicas:
+### Algumas caracteristicas :pushpin:
 
 * **Linguagem de propósito geral** - basicamente você pode programar qualquer coisa em **Python**.
 * **Simplês, facil e intuitiva** - organizada.
@@ -40,14 +40,12 @@ Hoje também já existem sistemas completamente baseados em **Python** como o **
 
 ---
 
-### Filosofia do Python:
+### Filosofia do Python :scroll:
 
 Acesse a [Zen do **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)
 
 
-![kisspng-angle-text-symbol-brand-other-python-5ab0c09b9ea1a7 3286927515215330836498](https://user-images.githubusercontent.com/65131471/85065602-d6280300-b183-11ea-8aea-964815569c7a.png)
-
-#### Referências.
+#### Referências :bookmark:
 
 Todas as informações deste conteúdo foram retiradas do [video "Curso Python #02 - Para que serve o Python?"](https://www.youtube.com/watch?v=Mp0vhMDI7fA&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&t=1042s), realizado pelo professor Gustavo Guanabara atravéz da plataforma Curso em Vídeo.
 
