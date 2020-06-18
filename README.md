@@ -12,6 +12,10 @@ The course that I learning is offer by *Curso em Video* channel in Youtube. Your
 Pretendo estar atualizando a lista todos os dias que possivel e gerando conteúdo atravéz de códigos conforme vou evoluindo na programação.
 I intend to be updating the list every day that I can, generating content throuth of my codes as I evolve.
 
+* [Curta história sobre **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python)
+* [Zen do **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md)
+* [Zen do **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)
+
 ### - [x] Mundo 1 - Completo.
    * Composto de 46 videos.
    - Sendo **11 aulas** que vão desde a *Introdução do que é Python* até os *primeiros algoritimos*. Explorando desde de as `operações matematicas simplês` até o uso de
