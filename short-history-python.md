@@ -4,7 +4,7 @@ Um pouco de história. . .
 
 ---
 
-### Quem, onde e quando?
+### Quem, onde e quando :medical_symbol:?
 A linguagem de programação **Python** surgiu em **1982** e foi criada pelo Holandes **Guido Van Hosson** na cidade de **Amsterdan - Holanda**.
 
 A linguagem **Python** foi criada para *corrigir erros* presentes nas linguagem **C**. Tem a intenção de ser mais simplês, visualmente acessivel, organizada e igualmente funcional. 
