@@ -25,7 +25,7 @@ Além disso a *PSF* recebe investimento de empresas como a **Microsoft**, **Goog
 
 Hoje também já existem sistemas completamente baseados em **Python** como o **RaspBerryPi** que só evolui.
 
-Acesse [Python.org](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)e mergulher na organização Pythonç.
+Acesse [Python.org](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md) e mergulher na organização **Python**.
 
 
 ---
