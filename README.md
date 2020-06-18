@@ -14,6 +14,7 @@ I intend to be updating the list every day that I can, generating content throut
 
 * [Curta história sobre **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md)
 * [Zen do **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)
+* [Plataforma Curso em Video;](https://www.cursoemvideo.com/)
 
 ### - [x] Mundo 1 - Completo.
    * Composto de 46 videos.
