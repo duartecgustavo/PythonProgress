@@ -8,7 +8,7 @@ Segue meu progresso em **Python**, minha primeira linguagem de programação des
 
 O curso que estou estudando é oferecido pelo canal *Curso em Video* no Youtube. Seu conteúdo é **totalmente gratuito** e de extrema qualidade.
 
-Neste repositório você pode encontrar minha lista de exercicios que vou atualizando conforme vou avançando na linguagem.
+Neste repositório você pode encontrar minha lista de exercicios que vou atualizando conforme avanço e evoluo na linguagem.
 
 * Lista de Exercicios.
 
