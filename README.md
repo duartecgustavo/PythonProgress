@@ -1,16 +1,14 @@
 # Python  - Curso em Video
 
 Sejam Bem Vindos!
-Welcome!
+
+* [*In English*](https://github.com/duartecgustavo/Python-Progress/blob/master/README-EN.md)
 
 Segue meu progresso em **Python**, minha primeira linguagem de TI. desde que voltei a me interessar pela área.
-Here is my progress in **Python** Language since I did back to learn IT. Python is my first language.
 
 O curso que estou estudando é oferecido pelo canal *Curso em Video* no Youtube. Seu conteúdo é **totalmente gratuito** e de extrema qualidade.
-The course that I learning is offer by *Curso em Video* channel in Youtube. Your content is **totaly free** and of extreme quality.
 
 Pretendo estar atualizando a lista todos os dias que possivel e gerando conteúdo atravéz de códigos conforme vou evoluindo na programação.
-I intend to be updating the list every day that I can, generating content throuth of my codes as I evolve.
 
 * [Curta história sobre **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md)
 * [Zen do **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)
@@ -19,7 +17,7 @@ I intend to be updating the list every day that I can, generating content throut
 ### - [x] Mundo 1 - Completo.
    * Composto de 46 videos.
    - Sendo **11 aulas** que vão desde a *Introdução do que é Python* até os *primeiros algoritimos*. Explorando desde de as `operações matematicas simplês` até o uso de
-   `bibliotecas` e manipulações de `strings`.
+   `bibliotecas` e manipulações de `strings`
    - Contém **35 desafios** praticos sobre os conceitos abordados.
    
 ### - [x] Mundo 2 - Completo.
