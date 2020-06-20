@@ -29,3 +29,5 @@ Pretendo estar atualizando a lista todos os dias que possivel e gerando conteúd
 ### - [ ] Mundo 3 - carregando. . 
 
 ![Assinatura1 1](https://user-images.githubusercontent.com/65131471/84540714-5a820e00-accc-11ea-9ad4-57ef348ead4b.jpg)
+
+[:arrow_left:](https://github.com/duartecgustavo)
