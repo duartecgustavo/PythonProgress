@@ -18,7 +18,7 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
    * Composto de 46 videos.
    - Sendo **11 aulas** que vão desde a *Introdução do que é Python* até os *primeiros algoritimos*. Explorando desde de as `operações matematicas simplês` até o uso de
    `bibliotecas` e manipulações de `strings`
-   - Contém **35 desafios** praticos sobre os conceitos abordados.
+   - Contém **35 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201lista-desafios.md)** praticos sobre os conceitos abordados.
    
 ### - [x] Mundo 2 :earth_americas: - Completo.
    *  Composto de 41 videos.
