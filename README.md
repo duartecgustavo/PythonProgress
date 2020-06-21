@@ -10,8 +10,6 @@ O curso que estou estudando é oferecido pelo canal *Curso em Video* no Youtube.
 
 Neste repositório você pode encontrar minha lista de exercicios que estou atualizando conforme avanço e evoluo na linguagem.
 
-* [Lista de Exercicios](https://github.com/duartecgustavo/Python-Progress/blob/master/Desafios/0.1-lista-ex.md) :page_with_curl:
-
 * [Curta história sobre **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md) :open_book:
 * [Zen do **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)	:snake:
 * [Plataforma Curso em Video](https://www.cursoemvideo.com/) :desktop_computer:	
