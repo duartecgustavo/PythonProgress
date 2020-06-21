@@ -52,3 +52,5 @@ Acesse a [Zen do **python**;](https://github.com/duartecgustavo/Python-Progress/
 Todas as informações deste conteúdo foram retiradas do [video "Curso Python #02 - Para que serve o Python?"](https://www.youtube.com/watch?v=Mp0vhMDI7fA&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&t=1042s), realizado pelo professor Gustavo Guanabara atravéz da plataforma Curso em Vídeo.
 
 Abraços 🖖
+
+[:arrow_left:](https://github.com/duartecgustavo/Python-Progress)
