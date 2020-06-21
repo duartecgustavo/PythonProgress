@@ -4,13 +4,13 @@ Sejam Bem Vindos!
 
 * [*In English*](https://github.com/duartecgustavo/Python-Progress/blob/master/README-EN.md)
 
-Segue meu progresso em **Python**, minha primeira linguagem de programação desde que voltei a me interessar pela área de TI.
+Segue meu progresso em **Python**, minha primeira linguagem de programação desde que venho me focando em TI.
 
 O curso que estou estudando é oferecido pelo canal *Curso em Video* no Youtube. Seu conteúdo é **totalmente gratuito** e de extrema qualidade.
 
-Neste repositório você pode encontrar minha lista de exercicios que vou atualizando conforme avanço e evoluo na linguagem.
+Neste repositório você pode encontrar minha lista de exercicios que estou atualizando conforme avanço e evoluo na linguagem.
 
-* Lista de Exercicios.
+* [Lista de Exercicios](https://github.com/duartecgustavo/Python-Progress/blob/master/Desafios/0.1-lista-ex.md)
 
 * [Curta história sobre **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md)
 * [Zen do **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)
