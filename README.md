@@ -24,7 +24,7 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
    *  Composto de 41 videos.
    - Sendo **5 aulas** que passam por um transição entre o básico e o intermediario, apresentando e aprofundando em temas como o uso de
    operadores condicionais `if`, `elif` e `else` e estruturas de repetição como `for` e `while`.
-   - Contém **36 desafios** praticos sobre os conceitos abordados.
+   - Contém **36 desafios https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo2-list-ex.md** praticos sobre os conceitos abordados.
 
 ### - [ ] Mundo 3 :globe_with_meridians: - carregando. . 
 
