@@ -1,6 +1,5 @@
-# Desafio 15 - Aula 07 : Programa que leia a quantidade KM rodados por um carro alugado e a quantidade de
-# de dias que este carro ficou alugado, sabendo que o valor do aluguel por dia é R$60 e o valor por KM rodado
-# é R$0.15.
+# Desafio 15 - Aula 07 : Programa que leia a quantidade KM rodados por um carro alugado e a quantidade de dias que este carro ficou alugado, sabendo que o valor do aluguel por 
+# dia é R$60 e o valor por KM rodado é R$0.15.
 
 aluguel = int(input('Por quantos dias você utilizou este carro? '))
 kmrodado = int(input('Quantos KM foram rodados com este carro? '))
