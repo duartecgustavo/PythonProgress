@@ -16,7 +16,7 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
 
 ### - [x] Mundo 1 :earth_asia: - Completo.
    * Composto de 46 videos.
-   - Sendo **11 aulas** que vão desde a *Introdução do que é Python* até os *primeiros algoritimos*. Explorando desde de as `operações matematicas simplês` até o uso de
+   - Sendo **11 aulas** que vão desde a *Introdução do que é Python* até os *primeiros algoritimos*. Explorando desde as `operações matematicas simplês` até o uso de
    `bibliotecas` e manipulações de `strings`
    - Contém **35 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201lista-desafios.md)** praticos sobre os conceitos abordados.
    
