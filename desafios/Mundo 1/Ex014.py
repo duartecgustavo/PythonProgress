@@ -1,4 +1,4 @@
-# Desafio 14 - Aula 07 : Conversor de temperatura, celcious °C para frarensdjasidja °F.
+# Desafio 14 - Aula 07 : Conversor de temperatura de celcious °C para frarensdjasidja °F.
 
 tempc = float(input('Digite a \033[32mtemperatura\033[m em °C: '))
 tempf = float((tempc*1.8) + 32)
