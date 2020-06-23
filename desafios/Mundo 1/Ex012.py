@@ -1,4 +1,4 @@
-# Desafio 12 - Aula 07 : Programa que leia o preço e mostre seu novo preço com 5% de desconto.
+# Desafio 12 - Aula 07 : Programa que leia o preço de um produto e mostre seu novo preço com 5% de desconto.
 
 nome = input('\033[31mOlá, digite seu nome ao lado\033[m: ')
 p = float(input('Digite o preço do produto, R$'))
