@@ -2,6 +2,7 @@
 #### Aulas: 11 | Desafios: 1 - 35;
 
 Para acessar cada _desafio_, clique no icone ao lado.
+_os desafios começam a partir da aula 4_
 
 ---
 
