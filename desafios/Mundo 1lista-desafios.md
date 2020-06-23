@@ -1,9 +1,9 @@
 ### Mundo 1 :3rd_place_medal:
 #### Aulas: 11 | Desafios: 1 - 35;
 
----
-
 Para acessar cada _desafio_, clique no icone ao lado.
+
+---
 
 #### Aula 4 - Primeiros Comandos em Python [:link:](https://www.youtube.com/watch?v=31llNGKWDdo&feature=emb_title)
 1 - Printando 'Olá Mundo' no terminal [:desktop_computer:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex001.py)
