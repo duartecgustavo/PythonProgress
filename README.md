@@ -8,7 +8,7 @@ Segue meu progresso em **Python**, minha primeira linguagem de programação des
 
 O curso que estou estudando é oferecido pelo canal *Curso em Video* no Youtube. Seu conteúdo é **totalmente gratuito** e de extrema qualidade.
 
-Neste repositório você pode encontrar minha lista de exercicios que estou atualizando conforme avanço e evoluo na linguagem.
+Neste repositório você pode encontrar minha lista de exercicios que estou atualizando conforme avanço e evoluo na linguagem. Além disso criei outros tópicos como uma curta e rápida história sobre a linguagem e sua 'filosofia'.
 
 * [Curta história sobre **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md) :open_book:
 * [Zen do **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)	:snake:
