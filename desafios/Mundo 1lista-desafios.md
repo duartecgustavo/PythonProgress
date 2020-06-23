@@ -85,7 +85,6 @@ Para acessar cada _desafio_, clique no icone ao lado.
 
 30 - Lendo Impar ou Par [:performing_arts:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex030.py)
 
-29 - Aplicando multa
 
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
