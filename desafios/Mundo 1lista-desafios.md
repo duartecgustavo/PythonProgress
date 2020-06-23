@@ -4,14 +4,24 @@
 
 Para acessar cada _desafio_, clique no icone ao lado.
 
+#### Aula 4 [:link:](https://www.youtube.com/watch?v=31llNGKWDdo&feature=emb_title)
 1 - Printando 'Olá Mundo' no terminal [:desktop_computer:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex001.py)
 
+---
+
+#### Aula 5 [:link:](https://www.youtube.com/watch?v=ElRd0cbXIv4)
 2 - Perguntando 'seu nome' [:label:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex002.py)
 
+---
+
+#### Aula 6 [:link:](https://www.youtube.com/watch?v=hdDHg1p3YVc&feature=emb_title)
 3 - Soma de dois numeros [:heavy_plus_sign:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex003.py)
 
 4 - Operadores [:atom:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex004.py)
 
+---
+
+#### Aula 7 [:link:](https://www.youtube.com/watch?v=Vw6gLypRKmY)
 5 - Sucessor e antecessor [:no_entry:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex005.py)
 
 6 - Dobro, triplo e raiz quadrada [:gear:](https://github.com/duartecgustavo/Python-Progress/tree/master/desafios/Mundo%201/Ex006.py)
@@ -34,6 +44,8 @@ Para acessar cada _desafio_, clique no icone ao lado.
 
 15 - Valores locação de carro [:red_car:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex015.py)
 
+---
+#### Aula 8 [:link:](https://www.youtube.com/watch?v=oOUyhGNib2Q&t=1474s)
 16 - Conversor de numero real para inteiro [:mahjong:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex016.py)
 
 17 - Comprimento da hipotenusa [:triangular_ruler:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex017.py)
