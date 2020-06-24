@@ -1,7 +1,11 @@
-# Desafio 09 - Aula 07 : Programa que leia um numero e exiba a sua tabuada!
+# Desafio 09 - Aula 07 : Tabuada!
 
-nome = input('\033[33mOlá, digite seu nome aqui\033[m: ')
+print('-='*25)
+print(f'{"-> TABUADA <-":^50}')
+print('-='*25)
 
-n = int(input('Digite um numero: '))
+nome = input('\033[33mOlá, digite seu nome aqui\033[m: ').strip()
 
-print(f'\033[34m{nome}\033[m, a \033[31mtabuada\033[m de \033[31m{n}\033[m é igual:\n\033[32m{n}x0 = {n*0}\n{n}x1 = {n*1}\n{n}x2 = {n*2}\n{n}x3 = {n*3}\n{n}x4 = {n*4}\n{n}x5 = {n*5}\n{n}x6 = {n*6}\n{n}x7 = {n*7}\n{n}x8 = {n*8}\n{n}x9 = {n*9}\n{n}x10 = {n*10}')
+numero = int(input('Digite um numero: '))
+
+print(f'\033[34m{nome}\033[m, a \033[31mtabuada\033[m de \033[31m{numero}\033[m é igual:\n\033[32m{numero}x0 = {numero*0}\n{numero}x1 = {numero*1}\n{numero}x2 = {numero*2}\n{numero}x3 = {numero*3}\n{numero}x4 = {numero*4}\n{numero}x5 = {numero*5}\n{numero}x6 = {numero*6}\n{numero}x7 = {numero*7}\n{numero}x8 = {numero*8}\n{numero}x9 = {numero*9}\n{numero}x10 = {numero*10}')
