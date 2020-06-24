@@ -86,6 +86,15 @@
 
 30 - Lendo Impar ou Par [:performing_arts:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex030.py)
 
+31 - Custo de viagem [:airplane:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex031.py)
+
+32 - Ano bissexto [:calendar:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex033.py)
+
+33 - Maior e Menor [:balance_scale:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex033.py)
+
+34 - Aumento de salario 2.0 [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex034.py)
+
+35 - Criando Triângulo [:small_red_triangle:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex035.py)
 
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
