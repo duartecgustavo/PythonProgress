@@ -1,4 +1,4 @@
-# Desafio 4 : Ler o tipo primitivo do que foi digitado e dizer todas as infos possiveis.
+# Desafio 4 - Aula 6 : Ler o tipo primitivo daquilo que foi digitado e dizer todas as infos pertinentes.
 
 a = input('Digite algo: ')
 
