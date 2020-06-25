@@ -18,13 +18,13 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
    * Composto de 46 videos.
    - Sendo **11 aulas** que vão desde a *Introdução do que é Python* até os *primeiros algoritimos*. Explorando desde as `operações matematicas simplês` até o uso de
    `bibliotecas` e manipulações de `strings`
-   - Contém **35 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201lista-desafios.md)** praticos sobre os conceitos abordados.
+   - Contém **35 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo1-lista-desafios.md)** praticos sobre os conceitos abordados.
    
 ### - [x] Mundo 2 :earth_americas: - Completo.
    *  Composto de 41 videos.
    - Sendo **5 aulas** que passam por um transição entre o básico e o intermediario, apresentando e aprofundando em temas como o uso de
    operadores condicionais `if`, `elif` e `else` e estruturas de repetição como `for` e `while`.
-   - Contém **36 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo2-list-ex.md)** praticos sobre os conceitos abordados.
+   - Contém **36 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo2-lista-desafios.md)** praticos sobre os conceitos abordados.
 
 ### - [ ] Mundo 3 :globe_with_meridians: - carregando. . 
 
