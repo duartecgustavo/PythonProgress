@@ -96,5 +96,9 @@
 
 35 - Criando Triângulo [:small_red_triangle:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%201/Ex035.py)
 
+---
+#### Aula 11 - EXTRA - Cores [:link:](https://www.youtube.com/watch?v=0hBIhkcA8O8)
+
+
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
