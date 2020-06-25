@@ -7,7 +7,7 @@ Um pouco de história. . .
 ### Quem, onde e quando :medical_symbol:?
 A linguagem de programação **Python** surgiu em **1982** e foi criada pelo Holandes **Guido Van Hosson** na cidade de **Amsterdan - Holanda**.
 
-A linguagem **Python** foi criada para *corrigir erros* presentes nas linguagem **C**. Tem a intenção de ser mais simplês, visualmente acessivel, organizada e igualmente funcional. 
+A linguagem **Python** foi criada para *corrigir erros* presentes nas linguagem **C**. Tem a intenção de ser mais simples, visualmente acessivel, organizada e igualmente funcional. 
 
 ---
 
@@ -19,13 +19,13 @@ O nome da serpente **Python** foi dado em referencia a outra coisa fora do mundo
 
 ### Evolução :robot:
 
-A linguagem cresceu tanto que em 2001 foi criada a fundação ``python software fundation`` quem em conjunto com os usuarios cria as novas versões dp **Python**.
+A linguagem cresceu tanto que em 2001 foi criada a fundação ``python software fundation`` quem em conjunto com os usuários cria as novas versões dp **Python**.
 
 Além disso a *PSF* recebe investimento de empresas como a **Microsoft**, **Google** e **Globo.com**.
 
 Hoje também já existem sistemas completamente baseados em **Python** como o **RaspBerryPi** que só evolui.
 
-Acesse [Python.org](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md) e mergulher na organização **Python**.
+Acesse [Python.org](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md) e mergulhe na organização **Python**.
 
 
 ---
