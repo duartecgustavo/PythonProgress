@@ -1,4 +1,4 @@
-# Desafio 33 - Aula 10 : Programa que leia numeros e me indique qual é o maior e qual pé o menor.
+# Desafio 33 - Aula 10 : Programa que leia numeros e me indique qual é o maior e qual é o menor.
 
 a = int(input('Digite o \033[4mprimeiro numero\033[m: '))
 b = int(input('Digite o \033[4msegundo numero\033[m: '))
