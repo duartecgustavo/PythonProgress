@@ -99,6 +99,4 @@
 ---
 #### Aula 11 - EXTRA - Cores [:link:](https://www.youtube.com/watch?v=0hBIhkcA8O8)
 
-
-
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
