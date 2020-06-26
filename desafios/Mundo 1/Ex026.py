@@ -1,5 +1,8 @@
-# Desafio 26 - Programa que leia uma frase e me diga:
-# 1 - Quantas vezes aparece a letra A / 2 - Em que posição ela aparece na primeira vez / 3 - Em que posição ela aparece na ultima vez
+# Desafio 26 - Aula 9 : Programa que leia uma frase e me diga:
+# 1 - Quantas vezes aparece a letra A.
+# 2 - Em que posição ela aparece na primeira vez.
+# 3 - Em que posição ela aparece na ultima vez.
+
 frase = str(input('Digite uma frase : ')).lower().strip()
 
 # 1
