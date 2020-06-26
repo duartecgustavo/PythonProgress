@@ -1,13 +1,18 @@
-# Desafio 23 - Programa que leia qualquer numero entre 0 e 9999 e monstre na tela cada um dos digitos separados. Exemplo:
+# Desafio 23  - Aula 9 : Programa que leia qualquer numero entre 0 e 9999 e monstre na tela cada um dos digitos separados. 
+# Exemplo:
 # Numero: 1834 --> Unidade 4 / Dezena 3 / Centena 8 / Milhar 1
 
-numero = int(input('Digite um numero \033[4maté 9999\033[m : ')) # usaremos os comandos // resto de divisão e % produto da divisão
+numero = int(input('Digite um numero \033[4maté 9999\033[m : ')) 
+# usaremos os comandos // resto de divisão e % produto da divisão
+
 u = numero // 1 % 10
 d = numero // 10 % 10
 c = numero // 100 % 10
 m = numero // 1000 % 10
 
 print(f'\033[31mUnidade : {u}\n\033[32mDecimal : {d}\n\033[33mCentena : {c}\n\033[34mMilhar  : {m}')
+
+# Ex retirado dos comentarios
 
 '''Cara, eu peguei um papel e fiz as contas e consegui entender. Não sei se você ainda tem dúvida, mas vou tentar explicar(sou péssimo explicando):
 Usaremos o número 1957 para fazer as contas... Este código que o Guanabara usou, poderia ser simplificado para isto(O resultado vai ser o mesmo, pode testar):
