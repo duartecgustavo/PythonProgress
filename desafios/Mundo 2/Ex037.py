@@ -1,4 +1,4 @@
-# Desafio 36 - Aula 12 : Conversor de bases, digite um numero e converta para, Binario, Octal e Hexadeciamal
+# Desafio 36 - Aula 12 : Conversor de bases, digite um numero e converta para Binario, Octal ou Hexadeciamal
 
 num = int(input('Digite um numero: '))
 print('Agora escolha uma forma de conversão:')

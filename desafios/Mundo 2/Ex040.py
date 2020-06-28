@@ -1,8 +1,8 @@
 # Desafio 40 - Aula 12 : Programa que leia algumas notas e informe:
-# Média abaixo de 5.0 é REPROVADO
-# Média entre 5.0 e 6.9 RECUPERAÇÃO
-# Média maior que 7.0 é APROVADO
-## Média > 9,8 PARABÉNS VOC Ê É UM GENIO
+# A/ Média abaixo de 5.0 é - REPROVADO.
+# B/ Média entre 5.0 e 6.9 - RECUPERAÇÃO.
+# C/ Média maior que 7.0 é - APROVADO.
+# EE/ Média > 9,8 PARABÉNS VOCÊ É UM GENIO.
 
 nota1 = float(input('Digite sua nota de matematica do primeiro bimestre: '))
 nota2 = float(input('Agora digite sua nota do segundo bimestre: '))
@@ -10,7 +10,7 @@ media = (nota1 + nota2) / 2
 
 if media < 5.0:
     print('\nInfelismente você foi \033[4:31mREPROVADO\033[m!'
-          f'\nSua média foi de \033[34m{media:1f}\033[m o que está abaixo do minimo de 5.0 pontos para recuperação e de 8.0 pontos para ser aprovado.'
+          f'\nSua média foi de \033[34m{media:1f}\033[m, que está abaixo do minimo de 5.0 pontos para recuperação e de 8.0 pontos para ser aprovado.'
           '\n\nEstude mais!!!')
 elif media > 4.9 and media <= 7.9:# 7.9 => media > 4.9
     print('\nVocê está de \033[4:32mRECUPERAÇÃO\033[m!'

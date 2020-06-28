@@ -1,5 +1,7 @@
 # Desafio 38 - Aula 12 : Programa que leia 2 numeros inteiros, compare-os e mostre:
-# Se o primeiro valor é maior / Se o segundo valor é maior / Se os valores são iguais
+# A/ Se o primeiro valor é maior.
+# B/ Se o segundo valor é maior.
+# C/ Se os valores são iguais.
 
 numero = int(input('Digite um numero: '))
 numero2 = int(input('Agora digite outro numero: '))
