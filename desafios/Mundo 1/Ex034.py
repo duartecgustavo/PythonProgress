@@ -1,6 +1,6 @@
-# Desafio 34 - Aula 10: Programa que leia o salario de um funiconario e calcule o aumento
-# Salarios acima de  de R$1250 o aumento é de 10%
-# Sarios inferiores ou iguais o aumento é de 15%
+# Desafio 34 - Aula 10: Programa que leia o salario de um funiconario e calcule o aumento.
+# Salarios acima de  de R$1250 o aumento é de 10%.
+# Sarios inferiores ou iguais o aumento é de 15%.
 
 nome = input('Olá, qual é o seu nome? ')
 
