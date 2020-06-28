@@ -16,9 +16,9 @@
 
 40 - Aprovado ou Reprovado [🎓](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex040.py)
 
-41 - Campeonado de natação [:swimmer:](https://www.youtube.com/watch?v=ZiC5NgSGJXU&t=299s)
+41 - Campeonado de natação [:swimmer:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex041.py)
 
-42 - Tipo de triangulo [:fleur_de_lis:](https://www.youtube.com/watch?v=ZX7sCPjcHA0)
+42 - Tipo de triangulo [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex042.py)
 
 43 - IMC [:elephant:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex043IMC.py)
 
