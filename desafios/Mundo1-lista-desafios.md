@@ -1,5 +1,7 @@
 ### Mundo 1 :3rd_place_medal:
-#### Aulas: 11 | Desafios: 1 - 35;
+#### Aulas: 11 | Desafios: 1 - 35:
+
+##### Certificado [:page_facing_up:](https://github.com/duartecgustavo/Python-Progress/blob/master/certificados/Certificado%20Mundo%201%20Python.pdf)
 
 * _Para acessar cada desafio, clique no icone ao lado._
 * _Os desafios começam a partir da aula 4._
