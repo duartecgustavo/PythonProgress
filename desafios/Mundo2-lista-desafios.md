@@ -16,9 +16,9 @@
 
 40 - Aprovado ou Reprovado [🎓](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex040.py)
 
-41 - Campeonado de natação [:swimmer:](https://www.youtube.com/watch?v=ZiC5NgSGJXU&t=299s)
+41 - Campeonado de natação [:swimmer:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex041.py)
 
-42 - Tipo de triangulo [:fleur_de_lis:](https://www.youtube.com/watch?v=ZX7sCPjcHA0)
+42 - Tipo de triangulo [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex042.py)
 
 43 - IMC [:elephant:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex043IMC.py)
 
@@ -39,7 +39,7 @@
 
 50 - Soma inteiros pares [:four:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex050.py)
 
-51 - Progressão aritmética [:keycap_ten:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex051FOR.py)
+51 - Progressão Aritmética [:keycap_ten:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex051FOR.py)
 
 52 - Numero primo [:eight_spoked_asterisk:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex052.py)
 
@@ -52,16 +52,43 @@
 56 - Analize de Dados [:mag_right:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex056EXTRAla%C3%A7os.py):game_die:
 
 ---
-#### Aula 14 - Estrutura de repetição `WHILE` [:link:](https://www.youtube.com/watch?v=LH6OIn2lBaI)]
+#### Aula 14 - Estrutura de repetição `WHILE` [:link:](https://www.youtube.com/watch?v=LH6OIn2lBaI)
 
 57 - Validação de resposta [:heavy_check_mark:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex057WHILEbegin.py)
 
-58 - Aleatorious 2.0 - GAME :mage:[:crossed_swords:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex058.py):space_invader:
+58 - Aleatorious 2.0 - GAME - :mage:[:crossed_swords:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex058.py):space_invader:
 
 59 - Menu de opções [:calling:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex059MENU.py)
 
-59.1 - Menu 2.0 [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex059MENU2.0.py)
+59.1 - Menu 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex059MENU2.0.py)
 
 60 - Fatorial [:heavy_exclamation_mark:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex060FATORIAL.py)
+
+61 - Progressão Aritmética 2.0 [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex061WHILEUP.py)
+
+62 - Progressão Aritmética 3.0 [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex062.py)
+
+63 - Fibonacci [:pizza:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex063FIBONACCI.py)
+
+64 - 999 [:name_badge:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex064.py)
+
+65 - Média, Maior e Menor [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex065.py)
+
+---
+#### Aula 15 - Interrompendo Repetição `WHILE` [:link:](https://www.youtube.com/watch?v=1OFp_-R2B2A)
+
+66 - 999 2.O [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex066.py)
+
+67 - Tabuada 3.0 [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex067TABUADAUP.py)
+
+68 - Par ou Impar - GAME - :mage:[:crossed_swords:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex068PARouIMPAR.py):space_invader:
+
+69 - Cadastro de dados [:abacus:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex069CADASTROwhile.py)
+
+70 - Cadastro de produtos [:keyboard:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex070PRODUTOS.py)
+
+71 - Caixa eletronico [:desktop_computer:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex071CAIXA.py)
+
+71.1 - Caixa eletronico 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex071CAIXA2.0)
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
