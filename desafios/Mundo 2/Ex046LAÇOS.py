@@ -1,4 +1,4 @@
-# Desafio 46 - Aula 13 :Programa que mostre na tela um contagem regressiva de (1, 10) para o ano novo com intervalo de 1 segundo.
+# Desafio 46 - Aula 13 : Mostre na tela uma contagem regressiva de (1, 10) para o ano novo com intervalo de 1 segundo.
 
 from time import sleep
 
