@@ -1,5 +1,9 @@
 # Desafio 43 - Aula 12 : Programa que calcule o IMC e apresente  a tabela:
-# Abaixo de 18.5 - ABAIXO DO PESO / Entre 18.5 e 25 - PESO IDELA / 25 até 30 - SOBREPESO / 30 até 50 - OBESIDADE / Acima de 40 - OBESIDADE MORBIDA
+# A/ Abaixo de 18.5 - ABAIXO DO PESO.
+# B/ Entre 18.5 e 25 - PESO IDEAL.
+# C/ De 25 até 30 - SOBREPESO.
+# D/ 30 até 50 - OBESIDADE.
+# E/ Acima de 40 - OBESIDADE MORBIDA.
 # FORMULA - ALTURA² / PESO
 
 print('='*50)

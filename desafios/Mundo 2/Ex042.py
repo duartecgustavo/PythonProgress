@@ -1,7 +1,10 @@
 # Desafio 42 - Aula 12 : Refazer  Desasfio 35 e mostrar qual o tipo do triangulo.
-# Equilatero / Isósceles / Escaleno
+# A/ Equilatero.
+# B/ Isósceles.
+# C/ Escaleno.
 
 print('\033[32mATENÇÃO! VAMOS MONTAR UM TRIÂNGULO!!!\033[m')
+
 a = int(input('Digite a primeira medida: '))
 b = int(input('Digite a segunda medida: '))
 c = int(input('Digite a terceira medida: '))

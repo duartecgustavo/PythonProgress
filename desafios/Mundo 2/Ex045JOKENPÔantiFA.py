@@ -2,6 +2,7 @@
 
 import random
 import time
+
 print('='*50)
 print(f'{" BEM VINDO AO JOKENPÔ CONTRA O BOLSONARO ":-^50}')
 print('='*50)
@@ -50,7 +51,9 @@ while choice == 'S':
     else:
         print('\nEscreva corretamente sua arma!')
 
-    choice = str(input('Jogar novamente?[S/N] ')).upper()
+    choice = str(input('Jogar novamente?[S/N] ')).upper()[0]
+    while choice not in 'SN':
+        choice = str(input('Opção invalida!\nJogar novamente?[S/N] ')).upper()[0]
     
 time.sleep(0.5)
 print('Fim do jogo!')
