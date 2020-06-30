@@ -1,14 +1,14 @@
-# Python  - Curso em Video
-
-Sejam Bem Vindos!
+### Sejam Bem Vindos!
 
 * [*In English*](https://github.com/duartecgustavo/Python-Progress/blob/master/README-EN.md)
 
-Segue meu progresso em **Python**, minha primeira linguagem de programação desde que venho me focando em TI.
+Este repositório foi criado inicialmente para guardar meus exercicios sobre Python conforme eu ia aprendendo.
 
-O curso que estou estudando é oferecido pelo canal *Curso em Video* no Youtube. Seu conteúdo é **totalmente gratuito** e de extrema qualidade.
+No entanto com meu progresso tive a ideia de criar algo melhor. Um conteúdo facil e intuitivo para quem quer aprender junto comigo sobre a linguagem.
 
-Neste repositório você pode encontrar minha lista de exercicios que estou atualizando conforme avanço e evoluo na linguagem. Além disso criei outros tópicos como uma curta e rápida história sobre a linguagem e sua 'filosofia'.
+Aqui esta além de meu progresso em **Python**, os exercicios e conteúdos que consumi e pratiquei. Tudo que aprendi foi graças ao canal *Curso em Video* no Youtube, que trás conteúdos **gratuitos** e de extrema qualidade sobre programação e TI.
+
+Neste repositório você pode encontrar minha lista de exercicios que estou atualizando conforme avanço e evoluo na linguagem. E alguns outros tópicos como uma curta e rápida história sobre a linguagem e sua 'filosofia'.
 
 * [Curta história sobre **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md) :open_book:
 * [Zen do **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)	:snake:
@@ -26,7 +26,11 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
    operadores condicionais `if`, `elif` e `else` e estruturas de repetição como `for` e `while`.
    - Contém **36 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo2-lista-desafios.md)** praticos sobre os conceitos abordados.
 
-### - [ ] Mundo 3 :globe_with_meridians: - carregando. . 
+### - [ ] Mundo 3 :earth_africa: - carregando. . 
+   *  Composto de 41 videos.
+   - Sendo **8 aulas** [...]
+   - Contém **42 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo3-lista-desafios.md)** praticos sobre os conceitos abordados.
+
 
 ![Assinatura1 2](https://user-images.githubusercontent.com/65131471/85914617-e9873e00-b815-11ea-8a6d-72f6ffcd8882.png)
 
