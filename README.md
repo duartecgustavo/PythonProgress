@@ -1,14 +1,14 @@
-# Python  - Curso em Video
-
-Sejam Bem Vindos!
+### Sejam Bem Vindos!
 
 * [*In English*](https://github.com/duartecgustavo/Python-Progress/blob/master/README-EN.md)
 
-Segue meu progresso em **Python**, minha primeira linguagem de programação desde que venho me focando em TI.
+Este repositório foi criado inicialmente para guardar meus exercicios sobre Python conforme eu ia aprendendo.
 
-O curso que estou estudando é oferecido pelo canal *Curso em Video* no Youtube. Seu conteúdo é **totalmente gratuito** e de extrema qualidade.
+No entanto com meu progresso, tive a ideia de criar algo melhor. Um conteúdo facil e intuitivo para quem quer aprender junto comigo sobre a linguagem.
 
-Neste repositório você pode encontrar minha lista de exercicios que estou atualizando conforme avanço e evoluo na linguagem. Além disso criei outros tópicos como uma curta e rápida história sobre a linguagem e sua 'filosofia'.
+Aqui esta além de meu progresso em **Python**, os exercicios e conteúdos que consumi para aprender. Tudo que aprendi foi graças ao canal *Curso em Video* no Youtube, que tras um conteúdo **gratuito** e de extrema qualidade.
+
+Neste repositório você pode encontrar minha lista de exercicios que estou atualizando conforme avanço e evoluo na linguagem. E alguns outros tópicos como uma curta e rápida história sobre a linguagem e sua 'filosofia'.
 
 * [Curta história sobre **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md) :open_book:
 * [Zen do **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)	:snake:
