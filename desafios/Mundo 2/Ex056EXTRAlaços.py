@@ -1,7 +1,7 @@
-# Desafio 56 EXTRA - Aula 13 : Programa que leia o NOME, IDADE  e SEXO de 4 PESSOAS  e mediga:
-# A MÉDIA DE IDADE do grupo.
-# O NOME do HOMEM mais VELHO.
-# Quantas MULHERES tem MENOS DE 20 ANOS.
+# Desafio 56 - EXTRA - Aula 13 : Programa que leia o NOME, IDADE  e SEXO de 4 PESSOAS e apresente:
+# A/ MÉDIA DE IDADE do grupo.
+# B/ NOME do HOMEM mais VELHO.
+# C/ Quantas MULHERES tem MENOS DE 20 ANOS.
 
 plussage = 0
 
@@ -12,6 +12,7 @@ youngwoman = 0
 
 for c in range(1, 5):
     print(f'------------ {c}° pessoa ------------')
+    
     nome = str(input(f'\033[32mNome\033[m: ')).lower()
     sexo = str(input(f'\033[32mSexo\033[m: ')).lower()
     age = int(input(f'\033[32mIdade\033[m: '))
@@ -21,9 +22,10 @@ for c in range(1, 5):
     if sexo in 'Mm' and c == 1:
         oldageman = age
         oldman = nome
-    if sexo in 'Mm' and age > oldageman:
-        oldageman = age
-        oldman = nome
+    else:
+        if sexo in 'Mm' and age > oldageman:
+            oldageman = age
+            oldman = nome
 
     if sexo in 'Ff' and age <=20:
         youngwoman += 1

@@ -1,5 +1,5 @@
-# Desafio 58 - Aula 14 : Melhorar o jogo do desafio 28!
-# Computador vai pensar em um numero de 0, 10. O jogador vai ir tentando advinhar, quando acertar o computador vai mostrar o numero de tentativas que o jogador levou até acertar.
+# Desafio 58 - Aula 14 : Melhorar o jogo do desafio 28.
+# Computador vai pensar em um numero de 0 à 10. O jogador vai ir tentando advinhar, quando acertar o computador vai mostrar o numero de tentativas que o jogador levou até acertar.
 
 from random import randint
 
