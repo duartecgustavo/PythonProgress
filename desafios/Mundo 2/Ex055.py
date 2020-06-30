@@ -1,4 +1,5 @@
 # Desafio 55 - Aula 13 : Programa que leia o peso de 5 pessoa e diga qual foi o MAIOR e qual foi o MENOR.
+
 lista=[]
 for c in range(1,6):
     num = int(input('Digite um numero: '))

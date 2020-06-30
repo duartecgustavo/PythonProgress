@@ -1,9 +1,12 @@
-# Desafio 51 - Aula 13 : Programa que leia o primeiro termo e a razão de uma progressão artimatica, no final mostre os 10 primeiros termos des PA.
+# Desafio 51 - Aula 13 : Programa que leia o PRIMEIRO TERMO e a RAZÃO de uma PROGRESSÃO ARITMÉTICA.
+# Depois mostre os 10 primeiros termos desta PA.
 
-inicio = (int(input('Digite o primeiro numero: ')))
-razao = (int(input('Digite a razão desta PA: ')))
+inicio = (int(input('Primeiro numero: ')))
+razao = (int(input('Razão desta PA: ')))
 formula = inicio + (10-1) * razao
+
 print(formula)
+
 for c in range(inicio, formula + razao, razao):
     print(c, end=' -> ')
 print('FIM!')
