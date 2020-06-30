@@ -4,9 +4,9 @@
 
 Este repositório foi criado inicialmente para guardar meus exercicios sobre Python conforme eu ia aprendendo.
 
-No entanto com meu progresso, tive a ideia de criar algo melhor. Um conteúdo facil e intuitivo para quem quer aprender junto comigo sobre a linguagem.
+No entanto com meu progresso tive a ideia de criar algo melhor. Um conteúdo facil e intuitivo para quem quer aprender junto comigo sobre a linguagem.
 
-Aqui esta além de meu progresso em **Python**, os exercicios e conteúdos que consumi para aprender. Tudo que aprendi foi graças ao canal *Curso em Video* no Youtube, que tras um conteúdo **gratuito** e de extrema qualidade.
+Aqui esta além de meu progresso em **Python**, os exercicios e conteúdos que consumi e pratiquei. Tudo que aprendi foi graças ao canal *Curso em Video* no Youtube, que trás conteúdos **gratuitos** e de extrema qualidade sobre programação e TI.
 
 Neste repositório você pode encontrar minha lista de exercicios que estou atualizando conforme avanço e evoluo na linguagem. E alguns outros tópicos como uma curta e rápida história sobre a linguagem e sua 'filosofia'.
 
