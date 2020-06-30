@@ -3,7 +3,9 @@
 num1 = int(input('Um numero: '))
 count = num1
 f = 1
+
 print(f'Calculando {num1}!', end=' ')
+
 while count > 0:
     print(f'{count}', end='')
     print(' x ' if count > 1 else ' = ', end='')
