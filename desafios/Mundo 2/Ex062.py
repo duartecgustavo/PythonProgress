@@ -1,9 +1,10 @@
-# Desafio 62 - Aula 14 : Melhorar o DEASFIO 61, depois que o programa mostrar a PA, perguntara se deseja adicionar mais termos.
+# Desafio 62 - Aula 14 : Melhorar o DEASFIO 61 e perguntara se deseja adicionar mais termos a PA.
+count = 0
+fim = 10
 
 inicio = int(input('Primeiro termo: '))
 razao = int(input('Razão da PA: '))
-count = 0
-fim = 10
+
 while count < fim:
     inicio+=razao
     count +=1

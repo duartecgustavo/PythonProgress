@@ -1,12 +1,13 @@
-# Desafio 63 - Aula 14 : Sequencia de FIBONACCI, leia um numero 'n' e mostre na tela a sequencia até este numero
+# Desafio 63 - Aula 14 : Sequencia de FIBONACCI.
+# Leia um numero e mostre a sequencia até este numero
+count = 2
+t1 = 0
+t2 = 1
 
 print('=-'*30)
 num = int(input('Numero para sequencia de FIBONACCI: '))
 print('=-'*30)
 
-count = 2
-t1 = 0
-t2 = 1
 print(f'{t1} -> {t2}', end='')
 while count < num:
     count +=1

@@ -1,5 +1,7 @@
-# Desafio 70 - Aula 15 : Programa que leia o NOME e o PREÇO de varios produtos, o programa deve perguntar se quer continuar.
-# Instruções: A/ Qual o total gasto na compra | B/ Quantos produtos custam mais de R$1000 | C/ Qual o nome do produto mais barato.
+# Desafio 70 - Aula 15 : Programa que leia o NOME e o PREÇO de varios produtos e pergunte se quer continuar.
+# A/ Qual o total gasto na compra.
+# B/ Quantos produtos custam mais de R$1000.
+# C/ Qual o nome do produto mais barato.
 
 print('-='*25)
 print(f'\033[32m{"LEITOR DE PRODUTOS":^50}\033[m')
@@ -7,6 +9,7 @@ print('=-'*25)
 
 tot = tot1000 = menor = count = 0
 namemenor = ' '
+
 while True:
     print('\033[31m-=\033[m' * 25)
     print(f'{"PRODUTO":^50}')
@@ -16,11 +19,16 @@ while True:
     price = float(input('Preço do produto: R$'))
 
     tot +=price
+    # total gasto
+
     if price > 1000:
         tot1000 +=1
+    # produtos mais de R$1000
+
     if count == 1 or price < menor:
         menor = price
         namemenor = name
+    # produto mais barato
 
     choice = str(input('Quer continuar?[S/N] ')).upper()[0]
     while choice not in 'SN':
