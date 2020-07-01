@@ -1,5 +1,4 @@
-# Desafio 71 (versão Guanabara) - Aula 15 : # Desafio 71 - Aula 15 : Programe um caixa eletronico que. Pergunte ao usuario qual valor a ser sacado(numero inteiro) e o programa deve informar quantas CEDULAS
-# de cada valor serão entregues. OBS: Podem ser cédulas de R$50 R$20 R$10 R$1.
+# Desafio 71  - (versão Guanabara) - Aula 15 :
 
 print('='*50)
 print(f'{"BANCO CEV":^50}')

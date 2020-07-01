@@ -1,11 +1,14 @@
-# Desafio 71 - Aula 15 : Programe um caixa eletronico que. Pergunte ao usuario qual valor a ser sacado(numero inteiro) e o programa deve informar quantas CEDULAS
-#de cada valor serão entregues. OBS: Podem ser cédulas de R$50 R$20 R$10 R$1.
+# Desafio 71 - Aula 15 : Programe um caixa eletronico.
+# Pergunte ao usuario qual valor a ser sacado(numero inteiro).
+# O programa deve informar quantas CEDULAS de cada valor serão entregues. 
+# OBS: Podem ser cédulas de R$50 R$20 R$10 R$1.
+
+count50 = n50 = n20 = n10 = n1 = 0
+choice = ' '
 
 print('='*50)
 print(f'{"BANKAST":^50}')
 print('='*50)
-count50 = n50 = n20 = n10 = n1 = 0
-choice = ' '
 
 while True:
     valor = int(input('Quanto você quer sacar? '))
