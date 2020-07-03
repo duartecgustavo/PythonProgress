@@ -1,7 +1,7 @@
 # Desafio 73 - Aula 16 : Crie uma TUPLA com os 20 primeiros colocados da tabela do Brasileirão, depois mostre:
-# A - Os 5 primeiros colocados
-# B - Os quatro ultimos colocados
-# C - Lista em ordem alfabetica
+# A - Os 5 primeiros colocados.
+# B - Os quatro ultimos colocados.
+# C - Lista em ordem alfabetica.
 # D - Em que posição na tabela está o time do SANTOS?
 
 times = ('Gremio', 'Corinthians','Internacional','santos','Palmeiras','Flamengo','São Paulo','Vasco','Fluminense','Atlético','Bahia','Coritiba','Goias','Sport','Botafogo','Chapecoense','Ceara','Bragantino','Avaí','Cruzeiro')

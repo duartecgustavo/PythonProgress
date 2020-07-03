@@ -1,5 +1,5 @@
-# Desafio 77 - Aula 16 : Programa que tenha uma TUPLA com varias palavras. Depois deve mostrar:
-# Para cada pavra quais são suas VOGAIS.
+# Desafio 77 - Aula 16 : Programa que tenha uma TUPLA com varias palavras:
+# Mostre para cada palavra quais são suas VOGAIS.
 
 tupla = ('pao', 'bebe', 'carro', 'casa', 'baralho', 'livro')
 
