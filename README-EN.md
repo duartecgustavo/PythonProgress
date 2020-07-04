@@ -4,11 +4,13 @@
 
 #### Welcome!
 
-Here is my progress in **Python** Language since I did back to learn IT. Python is my first language.
+This repository was created inicialy to keep my exercises in language **Python** as I was learning.
 
-The course that I learning is offer by *Curso em Video* channel in Youtube. Your content is **totaly free** and of extreme quality.
+However, with my progress I had the idea to create something better. Easily and intuitive content for those who want to learn together with me about the **Python**.
 
-I intend to be updating the list every day that I can, generating content throuth of my codes as I evolve.
+Here is in addition to my  progress, as too the exercises and contents that I have consumed and practiced. Everything  I learned was graces the 'Curso em Vídeo' channel on Youtube, which bring free and extremely quality content about IT and programming.
+
+Below, you can access exercises lists that I have been updating according I progress and evolve. Besides that  you can to find some links about the history of Python, the 'Zen of Python' and the site of 'Curso em Video' .
 
 * [Short history about **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md)
 * [Zen of **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)
