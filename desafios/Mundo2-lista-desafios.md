@@ -89,6 +89,6 @@
 
 71 - Caixa eletronico [:desktop_computer:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex071CAIXA.py)
 
-71.1 - Caixa eletronico 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex071CAIXA2.0)
+71.1 - Caixa eletronico 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex071CAIXA2.0.py)
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)

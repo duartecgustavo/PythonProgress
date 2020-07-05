@@ -1,5 +1,9 @@
 # Desafio 69 - Aula 15 : Programa que leia a IDADE, SEXO de varias pessoas e me pergunte se o usuario deseja continuar.
-# Ao fim mostre quantas pessoas tem  mais de 18 anos / Quantos homens foram cadastrados / Qauntas mulheres  tem menos de 20 anos;
+# Ao fim mostre:
+# A/ Quantas pessoas tem  mais de 18 anos.
+# B/ Quantos homens foram cadastrados.
+# C/ Quantas mulheres tem menos de 20 anos.
+
 age = countage = countman = countwoman = 0
 sex = choice = ' '
 

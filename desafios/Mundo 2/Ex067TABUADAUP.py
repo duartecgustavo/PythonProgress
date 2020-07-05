@@ -1,4 +1,4 @@
-# Desafio 67 - Aula 15 : Programa que execute a tabuada de um numero digitado e pare quando for digitadou um numero negativo.
+# Desafio 67 - Aula 15 : Programa que execute a tabuada de um numero digitado e pare quando for digitado um numero negativo.
 
 while True:
     num = int(input('Numero da Tabuada: '))
