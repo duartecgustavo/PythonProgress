@@ -12,6 +12,10 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
 
 * [Curta história sobre **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md) :open_book:
 * [Zen do **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)	:snake:
+* [Joguinhos](https://github.com/duartecgustavo/Python-Progress/blob/master/Joguinhos.md) :joystick:
+
+---
+
 * [Plataforma Curso em Video](https://www.cursoemvideo.com/) :desktop_computer:	
 
 ### - [x] Mundo 1 :earth_asia: - Completo.
