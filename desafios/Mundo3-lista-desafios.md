@@ -18,6 +18,8 @@
 
 76 - Notinha de preços [:scroll:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex076LISTA.py)
 
+76 - Notinha de preços 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex076%202.0.py) 
+
 77 - Vogais [:capital_abcd:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex077VOGAIS.py)
 
 ---
