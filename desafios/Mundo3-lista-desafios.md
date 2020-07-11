@@ -39,4 +39,9 @@
 
 83.1 - Parenteses 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex083EXTRA.py)
 
+---
+#### Aula 18 - Listas Pt2 [:link:](https://www.youtube.com/watch?v=YV_JQmZNFsk)
+
+84 - Lista composta [:dolls:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex084LISTASpt2.py)
+
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
