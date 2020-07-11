@@ -44,4 +44,6 @@
 
 84 - Lista composta [:dolls:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex084LISTASpt2.py)
 
+85 - Lista pares e impares [:crossed_flags:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex085.py)
+
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
