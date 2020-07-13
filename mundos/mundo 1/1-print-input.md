@@ -20,3 +20,5 @@ Com o comando input você irá apresentar um campo de pergunta no terminal. Atri
 `frase = input('Diga uma frase: ')` - resposta '*fora bozo*'
 
 Agora a frase vale '*fora bozo*'.
+
+[:arrow_backward:](https://github.com/duartecgustavo/Python-Progress/blob/master/mundos/mundo%201/mundo1.md)
