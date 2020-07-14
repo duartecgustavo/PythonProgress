@@ -1,6 +1,15 @@
-# BIBLIOTECAS : Começando pela MATH, com essa biblioteca posso executar NOVOS comandos matematicos, posso importala INTEIRA (IMPORT MATH) ou
-# importala por determinada função ESPECIFICA exemplo, (FROM MATH IMPORT SQRT)
-import math  # importei a biblioteca toda
+### O que são Bibliotecas?
+
+* Bibliotecas são pacotes com comandos e funcionalidades que **não estão presentes** originalmente no Python.
+
+Então devemos importalas diretamente no código que desejamos usar com os comandos `FROM` e `IMPORT`.
+
+---
+##### Biblioteca `MATH` - **`import math`**
+
+* Com essa biblioteca podemos executar **novos** comandos matematicos, pode ser importada **inteira** com o comando `import math` ou
+importar alguma **função especifica**, como por exemplo `from math import sqrt` - (sqrt é a função para raiz quadrada - **squareroot**).
+
 from datetime import date
 
 num = int(input('Digite um numero: '))
