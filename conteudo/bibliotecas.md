@@ -46,6 +46,6 @@ Além disso com a biblioteca `MATH` podemos formatar como a informação sera ap
 
 Ambas essas bibliotecas são usadas no **desafio/joguinho 45 - JOKENPô - GAME** :mage:[:crossed_swords:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex045JOKENP%C3%94antiFA.py):space_invader:.
 
-* Para saber sobre as **principais bibliotecas usadas**, clique [aqui](https://terminalroot.com.br/2019/12/as-30-melhores-bibliotecas-e-pacotes-python-para-iniciantes.html) e acesse o site terminalroot.
+* Para saber sobre as **principais bibliotecas usadas em Python**, clique [aqui](https://terminalroot.com.br/2019/12/as-30-melhores-bibliotecas-e-pacotes-python-para-iniciantes.html) e acesse o site terminalroot.
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
