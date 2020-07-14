@@ -1,8 +1,6 @@
 ### O que são Bibliotecas?
 
-* Bibliotecas são pacotes com comandos e funcionalidades que **não estão presentes** originalmente no Python.
-
-Então devemos importalas diretamente no código que desejamos usar com os comandos `FROM` e `IMPORT`.
+* Bibliotecas são pacotes com comandos e funcionalidades que **não estão presentes** originalmente no Python. Então devemos importalas diretamente no código que desejamos usar com os comandos `FROM` e `IMPORT`.
 
 ---
 ##### Biblioteca `MATH` - **`import math`**
@@ -10,32 +8,44 @@ Então devemos importalas diretamente no código que desejamos usar com os coman
 * Com essa biblioteca podemos executar **novos** comandos matematicos, pode ser importada **inteira** com o comando `import math` ou
 importar alguma **função especifica**, como por exemplo `from math import sqrt` - (sqrt é a função para raiz quadrada - **squareroot**).
 
-from datetime import date
+**Ex:**
 
-num = int(input('Digite um numero: '))
-raiz = math.sqrt(num)  # SQRT é o comando para raiz quardada
-print(f'A raiz quadrada de {num} é iguaç à: {raiz:.1f}')
-print(f'A raiz quadrada de {num} é igual à: {math.ceil(raiz)}!')  # CEIL é o comando para arredondar para cima
-print(f'A raiz quadrade de {num} é igual à: {math.floor(raiz)}!')  # FLOOR arredonda para baixo
-print(f'A raiz quadrada de {num} é igual à: {math.trunc(raiz)}!')  # TRUNC tudo que estiver da virgula para direita do numero será eliminado
+`from math import sqrt`
 
-# -----------------------------// ---------------------// -------------------------
+`numero = int(input('Digite um numero: '))`
 
-import emoji
-print(emoji.emojize("Olá, mundo! :earth_americas:", use_aliazes=True))
+`raiz = math.sqrt(numumero)` - aplicando o comando para raiz quardada
 
-# # -----------------------------// ---------------------// -------------------------
+`print(f'A raiz quadrada de {numumero} é igual à: {raiz:.1f}')`
 
-import random
-print('ATENÇÃO - Sorteio de quem enfiara uma bigorna no cú do Bolsonaro')
-n1 = input('Digite o nome do primeiro candidato: ')
-n2 = input('Digite o nome do segundo candidato: ')
-n3 = input('Digite o nome do terceiro candidato: ')
-n4 = input('Digite o nome do quarto candidato: ')
-lista = [n1,n2,n3,n4]
-sor = random.choice(lista)
-print(f"O candidato contemplado é {sor}, meus PARABÉNS!")
+Além disso com a biblioteca `MATH` podemos formatar como a informação sera apresentada, com comandos como `ceil`, `floor` e `trunc`.
 
-#from time import sleep
-#from termcolor import colored
-#from date time date
+* `CEIL` é o comando para arredondar para cima:
+
+`print(f'A raiz quadrada de {numero} é igual à: {math.ceil(raiz)}!')`
+
+* `FLOOR` arredonda para baixo:
+
+`print(f'A raiz quadrade de {numero} é igual à: {math.floor(raiz)}!')`
+
+* `TRUNC` faz com que tudo que estiver da virgula para direita do numero seja eliminado:
+
+`print(f'A raiz quadrada de {numero} é igual à: {math.trunc(raiz)}!')`
+
+---
+##### Biblioteca `datetime` - **`import datetime`**
+
+* Já com esta biblioteca podemos importar para o Python datas, por exemplo `from datetime import date`. Como **exemplo** podemos usar o **desafio 39 - alistamento**, basta clicar no soldadinho [:guard:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex039.py).
+
+---
+#### Outras bibliotecas: 
+
+**Biblioteca `random`** - Usada para criar valores aleatórios.
+
+**Biblioteca `time`** - Importa comandos de tempo como por exemplo o comando `sleep` com `from time import sleep`.
+
+Ambas essas bibliotecas são usadas no **desafio/joguinho 45 - JOKENPô - GAME** :mage:[:crossed_swords:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%202/Ex045JOKENP%C3%94antiFA.py):space_invader:.
+
+* Para saber sobre as **principais bibliotecas usadas**, clique [aqui](https://terminalroot.com.br/2019/12/as-30-melhores-bibliotecas-e-pacotes-python-para-iniciantes.html) e acesse o site terminalroot.
+
+[:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
