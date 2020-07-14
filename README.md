@@ -15,7 +15,7 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
 * [Joguinhos](https://github.com/duartecgustavo/Python-Progress/blob/master/Joguinhos.md) :joystick:
 * [Plataforma Curso em Video](https://www.cursoemvideo.com/) :desktop_computer:	
 
-### - [x] Mundo 1 [:earth_asia:](https://github.com/duartecgustavo/Python-Progress/blob/master/mundos/mundo%201/mundo1.md) - Completo.
+### - [x] Mundo 1 [:earth_asia:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/mundo%201/mundo1.md) - Completo.
    * Composto de 46 videos.
    - Sendo **11 aulas** que vão desde a *Introdução do que é Python* até os *primeiros algoritimos*. Explorando desde as `operações matematicas simplês` até o uso de
    `bibliotecas` e manipulações de `strings`
