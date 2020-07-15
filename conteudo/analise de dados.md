@@ -1,19 +1,31 @@
-#Ma nipulando  Cadeias de caracteres ou Strings (cada letra, espaço e caracter recebe um numero dentro do Python
+### Manipulando cadeias de caracteres ou strings.
+cada letra, espaço e numero digitado é transformado em uma lista no Python e possui sua posição
 
-# 1² FATIAMENTO
-frase = '     Curso em Video Python      '
-print (frase[9]) # Conchetes [] aciona o modo LISTA, que transforma o que foi digitado em uma lista de caracteres numerando eles de forma crescente
-print (frase[9:13]) # Neste caso além de me mostra a letra na posição 9 'V' ele vai me trazer tudo até a letra 12 'e', a 13 não entra, é sempre um para trás)
-print (frase[9:21])
+##### FATIAMENTO:
 
-print (frase[9:21:2]) # Agora, por conta do '2' ele vai pular as escolas a cada 1 digito (vai pular dois caracteres)
-print (frase[:5]) # Começara no '0' pois não tem nada e terminara cno '5', mesma coisa que [0:5], aparecer 'curso'
-print (frase[15:]) # Quase a mesma coisa, vai até o ultimo caracter
-print (frase[9::3]) # Neste caso, depois da primeira : ele vai entender que deve r até o fim da frase digitada e a segunda vai indicar que é apra pular de 3 em 3
+* Quando digitamos algo, exemplo uma frase, podemos fatiar usando comandos simples como `[]`. Eles acionam o **modo LISTA**, assim a frase se tonra uma lista que sempre **começa em 0**.
 
-teste = input('Digite uma frase')
-print (teste[2:])
+`frase = '     Fora Bolsonaro!      '` - apenas uma frase aleatoria
 
+`print (frase[9])` - Aqui estamos pedindo o *caracter* na **posição 9**.
+
+`print (frase[9:13])` - Com o uso das :, além de mostrar a **posição 9**, irá mostrar até a **posição 12**, sempre ignora o ultimo.
+
+`print (frase[9:21:2])` - Por conta do **'2' no ultimo parametro** ,irá mostrar os caracteres no espaço delimitado **pulando dois**.
+
+`print (frase[:5])` - **Começara no '0'** pois **não tem parametro** de começo e **terminara no '4'**.
+
+`print (frase[15:])` - Possui parametro de começo, mas não de final, então **vai até o ultimo**.
+
+`print (frase[9::3])` - Possui parametro de começo, mas não de final, vai até o ultimo **pulando de três em três**.
+
+* Com `INPUT` funciona igual. **Ex:**
+
+`frase = input('Digite uma frase')`
+
+`print (frase[2:])`
+
+---
 # 2² ANALISE
 # Vamos começar usando a função LEN, que vai ter quantos caracteres tem minha frase
 print (len(frase))
