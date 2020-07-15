@@ -1,6 +1,6 @@
 ### Conteúdo Mundo 1 :world_map: - Conhecendo a linguagem:
 
-* Print / Input [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/mundo%201/1-print-input.md)
+* Print / Input [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/mundo%201/1.0-print-input.md)
 
 * Operadores Matemáticos [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/mundo%201/1.1-operadores.md)
 
