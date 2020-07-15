@@ -1,7 +1,8 @@
 ### Manipulando cadeias de caracteres ou strings.
 cada letra, espaço e numero digitado é transformado em uma lista no Python e possui sua posição
 
-##### FATIAMENTO:
+---
+##### FATIAMENTO :knife:
 
 * Quando digitamos algo, exemplo uma frase, podemos fatiar usando comandos simples como `[]`. Eles acionam o **modo LISTA**, assim a frase se tonra uma lista que sempre **começa em 0**.
 
@@ -46,8 +47,13 @@ Usaremos as funções:
 ###### .STRIP()
 `print (len(frase.strip()))` - Se houver **algum espaço** no *inicio* ou *fim* da frase, será **deletado**.
 
-###### .COUNT()
+Dentro da função `.STRIP()`, tambpem temos a `.RSTRIP` e a `.LSTRIP`:
 
+`print (frase.rstrip())` - **.RSTRIP** - (RIGHT) - remove os espaços da dereita.
+
+`print (frase.lstrip())` - **.LSTRIP** - (LEFT) - remove os espaços da esquerda.
+
+###### .COUNT()
 `print (frase.count('o'))` - **Quantos 'o'** tem na frase.
 
 `print (frase.count('o',0,13))` - Vai me mostrar o **numero de 'o'** presente do caracter **0 até o 12**.
@@ -55,30 +61,56 @@ Usaremos as funções:
 `print (frase.count('fora'))` - Quantos 'fora' tem na frase.
 
 ###### .FIND()
-
 `print (frase.find('bozo'))` - Caso eu indique um *valor que não existe*, **retona-ra '-1'**, pois não existe nada correspondente.
 
 ###### IN
-
 `print ('bozo' in frase)` - Retornara `FALSE` neste caso.
 
-# 3° TRANSFORMAÇAO
-# Agora vamos aprender a transformar estes caracteres
-print (frase.replace('python', 'android'))# REPLACE faz essa função
-print (teste.replace('mundo', 'gerudo'))
+---
+##### TRANSFORMAÇAO :performing_arts:
+vamos fazer pequenas **transformações** dentro daquilo que indicarmos
 
-print (teste.upper()) # UPPER deixa tudo maiusculo
-print (frase.upper())
+Usaremos as funções:
 
-print (teste.lower()) # LOWER deixa tudo minusculo
-print (frase.lower())
+* `.REPLACE()` - **substitui** caracteres por outros que você indicar.
 
-print (frase.capitalize()) # CAPITALIZE deixa a inicial maiusculas (do começo da frase)
-print (frase.title()) # TITLE deixa TODAS as iniciais maiusculas
+* `.UPPER()` - transforma em **maiusculo**.
 
-print (frase.strip()) # STRIP Vai retirar ESPAÇOS inultei de um frase (espaços que podem ser colocardos no começo e no fim
-print (frase.rstrip()) # RSTRIP (RIGHT) remove os espaços da dereita
-print (frase.lstrip()) # LSTRIP (LEFT) remove os espaços da esquerda
+* `.LOWER()` - transforma em **minusculo**. 
+
+* `.CAPITALIZE()` - deixa a **primeira letra** maiuscula no **começo da frase**.
+
+* `.TITLE()` - deixa **todas** as iniciais maiusculas.
+
+###### .REPLACE()
+
+`print (frase.replace('bolsonaro', 'bozo'))` - Estou substituindo a **merda** *bolsonaro* por *bozo*.
+
+`Fora Bozo! `
+
+###### .UPPER()
+
+`print (teste.upper())` - Deixa tudo maiusculo.
+
+###### .LOWER()
+
+`print (teste.lower())` - Deixa tudo minusculo.
+
+###### .CAPITALIZE()
+
+`print (frase.capitalize())` - A inicial maiusculas do começo da frase.
+
+###### .TITLE()
+
+`print (frase.title())` - Todas as iniciais maiusculas.
+
+
+
+
+
+
+
+
 
 # 4° DIVISÃO e JUNÇÃO
 # Com o comando SPLIT podemos dividir uma frase em quantas quisermos através dos espaços e com JOIN podemos unir frases
