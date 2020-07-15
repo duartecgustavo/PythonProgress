@@ -1,4 +1,4 @@
-### Manipulando cadeias de caracteres ou strings.
+### Manipulando cadeias de caracteres.
 cada letra, espaço e numero digitado é transformado em uma lista no Python e possui sua posição
 
 ---
@@ -104,32 +104,42 @@ Usaremos as funções:
 
 `print (frase.title())` - Todas as iniciais maiusculas.
 
+---
+##### DIVISÃO e JUNÇÃO :cyclone:
+com apenas dois comando, `.SPLIT` e `.JOIN` podemos separar e unir
 
+* `.SPLIT` - **separa tudo** em palavras, *ignorando os espaços*.
 
+* `.JOIN` - **uni todas** as palavras, também *ignotando os espaços*.
 
+###### .SPLIT
 
+`print (frase.split())` - *['Fora', 'Bolsonaro!']*
 
+###### .JOIN
 
+`frase = frase.split()`
 
+`print (''.join(frase))` - *ForaBolsonaro!*   
 
-# 4° DIVISÃO e JUNÇÃO
-# Com o comando SPLIT podemos dividir uma frase em quantas quisermos através dos espaços e com JOIN podemos unir frases
-print (frase.split())
-print (' '.join(frase))
+`print ('-'.join(frase))` - *F-o-r-a-B-o-l-s-o-n-a-r-o-!*  
 
-print("""EXTRAAAA EXTRAAAAA, se eu quiser adicionar um texto, frase ou
-qualquer coisa, e quero add em linhas diferentes, 3 
-" juntas mes permitem abrir isso, sem precisar de \+n ou outro print'""")
+---
+###### EXTRA :heavy_plus_sign:
+para finalizar, no Python podemos adicionar comando a comandos
 
-# EXTRA - Para finalizar, no Python podemos adicionar comando a comandos, EX
+`print (frase.upper().count('A'))`
 
-print (frase.upper().count('A'))
+`mundo = 'Olá Mundo'`
 
-mundo = 'Olá Mundo'
-mundo = (mundo.replace('Mundo', 'world'))
+`mundo = (mundo.replace('Mundo', 'world'))`
 
-    print (mundo)
+   `print (mundo)` - *Olá world*
 
-dividido = (mundo.split())
-print(dividido[0])
-print(dividido[0][2])
+`dividido = (mundo.split())` - *['Olá', 'world']*
+
+`print(dividido[0])` - *Olá*
+
+`print(dividido[0][2])` - *á*
+
+[:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
