@@ -5,7 +5,7 @@ cada letra, espaço e numero digitado é transformado em uma lista no Python e p
 
 * Quando digitamos algo, exemplo uma frase, podemos fatiar usando comandos simples como `[]`. Eles acionam o **modo LISTA**, assim a frase se tonra uma lista que sempre **começa em 0**.
 
-`frase = '     Fora Bolsonaro!      '` - apenas uma frase aleatoria
+**`frase = '     Fora Bolsonaro!      '` - apenas uma frase aleatoria**
 
 `print (frase[9])` - Aqui estamos pedindo o *caracter* na **posição 9**.
 
@@ -30,7 +30,7 @@ cada letra, espaço e numero digitado é transformado em uma lista no Python e p
 
 Usaremos as funções:
 
-* `LEN()` - que vai **ler** quantos caracteres tem minha frase.
+* `LEN()` - que vai **ler** quantos caracteres tem minha frase. conta inclusive os **espaços**.
 
 * `.STRIP` - que vai deletar **todos os espaços** do *inicio* e do *fim* da frase.
 
@@ -38,21 +38,29 @@ Usaremos as funções:
 
 * `.FIND()` - parecido com o `COUNT`, porém irá me dizer se o que estou procurando **existe ou não** na frase.
 
-* O `LEN()` contara quantos caracteres possuem aqui que eu estou *lendo*. Conta inclusive os **espaços**.
+* O `IN`- Mesmo ideia do `.FIND()`, porém me retornara com `TRUE` ou `FALSE`.
 
 ###### LEN()
 `print(len(frase))` - A frase **Fora Bolsonaro!** possui **15 caracteres**.
 
+###### .STRIP()
 `print (len(frase.strip()))` - Se houver **algum espaço** no *inicio* ou *fim* da frase, será **deletado**.
 
+###### .COUNT()
 
-print (frase.count('o'))
-print (frase.count('o',0,13)) # Vai me mostrar o numero de 'o' presente do caracter 0 até o 12 (lembrando que é sempre até um caracter anterior
-print (teste.count('mundo'))
+`print (frase.count('o'))` - **Quantos 'o'** tem na frase.
 
-# Também temos o FIND, que vai procurar quantas vezes o caracter que eu quero apareceram
-print (frase.find('deo')) # Caso eu indique um valor que não tem, ele irá me retonrar '-1', pois não existe nada correespondente
-print ('curso' in frase)
+`print (frase.count('o',0,13))` - Vai me mostrar o **numero de 'o'** presente do caracter **0 até o 12**.
+
+`print (frase.count('fora'))` - Quantos 'fora' tem na frase.
+
+###### .FIND()
+
+`print (frase.find('bozo'))` - Caso eu indique um *valor que não existe*, **retona-ra '-1'**, pois não existe nada correspondente.
+
+###### IN
+
+`print ('bozo' in frase)` - Retornara `FALSE` neste caso.
 
 # 3° TRANSFORMAÇAO
 # Agora vamos aprender a transformar estes caracteres
