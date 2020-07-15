@@ -26,13 +26,26 @@ cada letra, espaço e numero digitado é transformado em uma lista no Python e p
 `print (frase[2:])`
 
 ---
-# 2² ANALISE
-# Vamos começar usando a função LEN, que vai ter quantos caracteres tem minha frase
-print (len(frase))
-print (len(frase.strip()))
-print (len(teste))
+##### ANALISE :mag_right:
 
-# Outra função será o COUNT que irá contar tudo oque eu quiser dentro de uma frase
+Usaremos as funções:
+
+* `LEN()` - que vai **ler** quantos caracteres tem minha frase.
+
+* `.STRIP` - que vai deletar **todos os espaços** do *inicio* e do *fim* da frase.
+
+* `.COUNT()` - que irá **contar** um caracter especifico que eu quiser.
+
+* `.FIND()` - parecido com o `COUNT`, porém irá me dizer se o que estou procurando **existe ou não** na frase.
+
+* O `LEN()` contara quantos caracteres possuem aqui que eu estou *lendo*. Conta inclusive os **espaços**.
+
+###### LEN()
+`print(len(frase))` - A frase **Fora Bolsonaro!** possui **15 caracteres**.
+
+`print (len(frase.strip()))` - Se houver **algum espaço** no *inicio* ou *fim* da frase, será **deletado**.
+
+
 print (frase.count('o'))
 print (frase.count('o',0,13)) # Vai me mostrar o numero de 'o' presente do caracter 0 até o 12 (lembrando que é sempre até um caracter anterior
 print (teste.count('mundo'))
