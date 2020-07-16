@@ -10,6 +10,6 @@
 
 * Bibliotecas [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/mundo%201/1.4-bibliotecas.md)
 
-* Analise de Dados [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/mundo%201/1.5-analise-de-dados.md)
+* Manipulação de Dados [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/mundo%201/1.5-analise-de-dados.md)
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
