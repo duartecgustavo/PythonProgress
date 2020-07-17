@@ -46,4 +46,14 @@
 
 85 - Lista pares e impares [:crossed_flags:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex085.py)
 
+86 - Matriz [:file_cabinet:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex086MATRIZ.py)
+
+86.1 - Matriz 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex086Matrizextra.py)
+
+87 - Matriz 3.0 [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex087MATRIZ2.0.py)
+
+88 - MEGASENA [:moneybag:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex088MEGASENA.py)
+
+88 - MEGASENA 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex088MS2.0.py)
+
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
