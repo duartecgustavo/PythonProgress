@@ -54,6 +54,6 @@
 
 88 - MEGASENA [:moneybag:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex088MEGASENA.py)
 
-88 - MEGASENA 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex088MS2.0.py)
+88.1 - MEGASENA 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex088MS2.0.py)
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
