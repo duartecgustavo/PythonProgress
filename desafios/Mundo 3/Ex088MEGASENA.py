@@ -1,6 +1,6 @@
 # Dessafio 88 - Aula 18 : MEGASENA - Programa que crie palpites.
 # Primeiro deve pergutntar quantos jogos serão feitos.
-# Depois para cada jogo sorteara 6 numeros entre 1 - 60 sendo que os numeros não podem se repetir dentro de um mesmo jogo.
+# Depois para cada jogo sorteara 6 numeros entre 1 - 60, sendo que os numeros não podem se repetir dentro de um mesmo jogo.
 # Deve cadastrar tudo em uma mesma lista composta.
 
 from random import randint
