@@ -1,0 +1,36 @@
+# Aula - CONDIÇÕES - IF and ELSE;
+# IF CONDIÇÃO():
+  #  Blablabla True
+# ELSE:
+  #  BLOLBOLBO False
+
+tempo = int(input('Quantos anos tem seu carro? '))
+if tempo >= 10: # Dá para executar um programa apenas com IF sem ELSE, isso se hama condição simples
+      print ('Seu carro está velho!')
+else: # COm ELSE vira uma condição composta
+      print('Seu carro está novinho!')
+
+# SIMPLIFICADA : print ('carro velho' if tempo >= 10 else 'carro novo')
+
+print ('carro velho' if tempo >= 10 else 'carro novo')
+
+# --------------------------// ------------// -----------------------
+
+nome = input('Digite seu nome: ').lower()
+if nome == 'gustavo':
+    print(f'Seu gostoso do krl, {nome.title()} é o melhor nome!!!')
+else:
+    print('Seu nome é tão normal...')
+print(f'{nome.title()}, tudo bem?')
+
+# --------------------------// ------------// -----------------------
+
+bimestre1 = float(input('Qual sua nota de Geografia do 1°Bimestre? '))
+bimestre2 = float(input('Qual sua nota de Geografia do 2²Bimestre? '))
+bimestre3 = float(input('Qual sua note de Geografia do 3²Bimestre? '))
+bimestre4 = float(input('Qual sua nota de Geografia do 4²Bimestre? '))
+media = (bimestre1+bimestre2+bimestre3+bimestre4)/4
+if media >=7:
+    print(f'Com base em sua nota média anual de Geografia de {media}, você foi APROVADO!!! PARABÉNS!')
+else:
+    print(f'Com base em sua nota média anual de Geografia de {media}, infelismente você foi REPROVADO!\nEstude mais!')

@@ -1,0 +1,36 @@
+# Estruturas compostas.
+
+# Podemos criar LISTAS dentro de LISTAS.
+
+dados = []
+pessoas = list()
+
+while True:
+
+    dados.append(str(input('Diga seu nome: ')))
+    dados.append(int(input('Sua idade: ')))
+
+    pessoas.append(dados[:]) # adicionando lista dados a lista pessoas
+    dados.clear() # limpando a lista dados para em seguida receber novos valores
+
+    choice = str(input('Quer continuar?[S/N] ')).upper()[0]
+    while choice not in 'SN':
+        choice = str(input('Opção invalida!\nQuer continuar?[S/N] ')).upper()[0]
+    if choice in 'N':
+        break
+
+'''for pos, cont in enumerate (pessoas): # repetindo o processo
+    print(pessoas[pos][0],end= ' ') # puxando a primeira lista dados e o conteudo da posição 0
+    print(pessoas[pos][1])''' # puxando a primeira lista dados e o conteudo da posição 1
+
+
+for cont in pessoas:
+    print(f'{cont[0]} tem {cont[1]} anos.')
+
+    if cont[1] >= 21:
+        print(f'{cont[0]} é maior de idade.')
+
+print(len(pessoas))
+
+# pessoas = [['João',25],['Maria',32],['Luana',15]]
+

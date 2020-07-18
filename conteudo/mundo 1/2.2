@@ -1,0 +1,41 @@
+# TUPLAS - LISTAS FIXAS
+
+# O PYTHON possui 3 tipos de 'listas'.
+# - Comeãndo pelas TUPLAS () que são fixas.
+
+# TUPLAS SÃO IMUTÁVEIS!
+
+# As tuplas são definidas com ():
+
+# Ex:
+
+lanche = ('hamburguer','suco','brigadeiro', 'bala')
+print(lanche[::-1])
+print(len(lanche))
+for count in lanche:
+    print(count)
+
+for c in range(0, len(lanche)):# aqui como a leitura de lanche posssui 4 valores, vai de 0 até 4.
+    print(f'Eu quero come {lanche[c]} na posição {c}')# já aqui vai sempre mostrar o lanche porem o 'c' vai determinar qual valor sera mostrado
+
+print(sorted(lanche))# organiza minha TUPLA por ordem ALFABETICA
+
+# podemos somar TUPLAS  
+
+a = (1, 2, 3)
+b = (5,     7, 6, 4, 5)
+print(a + (b[-1::-1])) # ao somar TUPLAS o python simplesmente une as TUPLAS
+
+# outros métodos
+
+print(len(a)) # vai ter quantos valores tem a TUPLA
+
+print(b.count(6)) # me indicara quantos '6' tem na TUPLA 'b'
+
+print(b.index(5))# vai me dizer a posição que 5 aparece
+
+# ENUMERATE - posso pegar a posição de algo na TUPLA
+for posicao, comida in enumerate(lanche):
+        print(f'Comi {posicao+1}° a {comida}')
+
+

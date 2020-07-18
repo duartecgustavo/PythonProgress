@@ -1,0 +1,74 @@
+# LISTAS - DIFERENTES DAS TUPLAS, SÃO MUTAVEIS!
+
+lista = ['hamburguer','suco','brigadeiro', 'bala']
+lista[3] = 'almondega'
+print(lista,'- \033[31moriginal\033[m')
+
+# ADICIONAR - em listas também é possivel ADICIONAR novos itens a lista. Usando o comando APPEND
+
+lista.append('macarrão')
+print(lista,'- \033[32mappend\033[m "macarrão"')
+
+# INSERIR - podemos inserir o que queremos na POSIÇÃO que queremos com INSERT
+
+lista.insert(3,'cookie') # o numero da posição vem antes do que se deseja inserir
+print(lista,'- \033[33minsert\033[m "cookie"')
+
+# APAGAR - para deletar elementos podemos usar comandos como DEL, POP e REMOVE
+
+del lista[3]
+# DEL - deleta o conteudo da posição que você quer
+print(lista,'- \033[34mdel\033[m "cokkie"')
+
+lista.pop(3)
+# POP - faz o mesmo que o DEL
+print(lista,'- \033[35mpop\033[m "almondega"')
+# o pop é utilizado também para eliminar O ULTIMO elemento. caso não seja indicada posição
+
+lista.remove('macarrão')
+# REMOVE - apaga pelo CONTEUDO, ou seja, vai buscar o que você deseja apagar
+print(lista,'- \033[36mremove\033[m "macarrão"')
+
+print('---------------------------//--------------------//--------------------------')
+
+# buscando um item que talvez não exista na lista:
+if 'pizza' in lista:
+    lista.remove('suco')
+    print(lista)
+
+# lista numerada:
+listanumerada = list(range(11,4,-1))
+print(listanumerada,'- lista numerica com \033[31mRANGE\033[m')
+
+# colocando lista em ordem crescente
+valores = [4,2,5,9,0,3,7,4,6]
+valores.sort()
+print(valores,'- lista com valores organizados com \033[32mSORT\033[m')
+valores.sort(reverse=True)
+print(valores,'- lista com valores em ordem reversa com \033[33m"reverse=True"\033[m')
+
+print('---------------------------//--------------------//--------------------------')
+
+# criando perguntas para add em lista
+listaperguntas = list(input('Diga o que quer add: ') for c in range(4))
+for c in listaperguntas:
+    print(c,end=' ')
+
+listaperguntas.append(input('\nQuer add mais algum termo?'))
+for c in listaperguntas:
+    print(c,end=' ')
+
+# ouu
+
+listaperguntas2 = list()
+for c in range(3):
+    listaperguntas2.append(str(input('\nDiga o que quer comer: ')))
+print(listaperguntas2)
+
+# copiando lista
+a = [1,2,3,4,5]
+b = a[:]#para copiar uma lista é necessario copiar seus valores e não simplismente a lista
+
+# ENUMERATE - posso pegar a posição de algo na LISTA
+for posicao, comida in enumerate(listaperguntas2):
+        print(f'Comi {posicao+1}° a {comida}')
