@@ -56,4 +56,6 @@
 
 88.1 - MEGASENA 2.0 [:trident:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex088MS2.0.py)
 
+89 - Boletim [:bookmark_tabs:](https://github.com/duartecgustavo/Python-Progress/edit/master/desafios/Mundo%203/Ex089BOLETIM.py)
+
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
