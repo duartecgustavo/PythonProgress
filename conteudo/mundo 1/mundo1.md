@@ -12,4 +12,6 @@
 
 * Manipulação de Dados [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/mundo%201/1.5-analise-de-dados.md)
 
+* Condições IF e ELSE [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/mundo%201/1.6-condi%C3%A7%C3%B5es-if-else.md)
+
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
