@@ -1,8 +1,9 @@
 #### EXTRA - ADICIONANDO CORES :paintbrush:
+sempre que você quiser representar uma cor em Pythonbasta usar o comando `\033+[stylo:.text:.background+m`
 
-# Sempre que você quiser representar uma cor (em código ANSI) em Python, se começa com  \033[stylo:.text:.background m
+**Ex:**
 
-print('\033[1:30:41m Olá, mundo!\033[m')
+`print('\033[1:30:41m Olá, mundo!\033[m')`
 print('\033[4:33:46m Olá, mundo!\033[m')
 print('\033[7:35:43m Olá, mundo!\033[m')
 print('\033[30:42m Olá, mundo!\033[m')
