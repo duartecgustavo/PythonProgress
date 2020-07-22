@@ -1,4 +1,4 @@
-# AULA 11 - EXTRA - CORES NO TERMINAL
+#### EXTRA - ADICIONANDO CORES :paintbrush:
 
 # Sempre que você quiser representar uma cor (em código ANSI) em Python, se começa com  \033[stylo:.text:.background m
 
