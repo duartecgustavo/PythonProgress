@@ -4,11 +4,16 @@ sempre que você quiser representar uma cor em Pythonbasta usar o comando `\033+
 **Ex:**
 
 `print('\033[1:30:41m Olá, mundo!\033[m')`
-print('\033[4:33:46m Olá, mundo!\033[m')
-print('\033[7:35:43m Olá, mundo!\033[m')
-print('\033[30:42m Olá, mundo!\033[m')
-print('\033[m Olá, mundo!\033[m')
-print('\033[7:30m Olá, mundo!\033[m')
+
+`print('\033[4:33:46m Olá, mundo!\033[m')`
+
+`print('\033[7:35:43m Olá, mundo!\033[m')`
+
+`print('\033[30:42m Olá, mundo!\033[m')`
+
+`print('\033[m Olá, mundo!\033[m')`
+
+`print('\033[7:30m Olá, mundo!\033[m')`
 
 # Style - Estilo da cor
 # 0 = Texto sem formatação
