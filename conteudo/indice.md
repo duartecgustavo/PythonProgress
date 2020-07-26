@@ -1,4 +1,4 @@
-### Conteúdo Mundo 1 :world_map: - Conhecendo a linguagem:
+### Conteúdo :world_map:
 
 * Print / Input [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.0-print-input.md)
 
