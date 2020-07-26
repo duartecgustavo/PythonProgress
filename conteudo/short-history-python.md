@@ -44,7 +44,7 @@ Acesse [Python.org](https://github.com/duartecgustavo/Python-Progress/blob/maste
 
 ### Filosofia do Python :scroll:
 
-Acesse a [Zen do **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)
+Acesse a [Zen do **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/zen-of-python.md)
 
 
 #### Referências :bookmark:
