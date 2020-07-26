@@ -1,6 +1,6 @@
 ### Sejam Bem Vindos!
 
-* [*In English*](https://github.com/duartecgustavo/Python-Progress/blob/master/README-EN.md)
+* [*In English*](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/README-EN.md)
 
 Este repositório foi criado inicialmente para guardar meus exercicios sobre **Python** conforme eu ia aprendendo.
 
