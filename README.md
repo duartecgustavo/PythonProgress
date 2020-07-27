@@ -2,9 +2,9 @@
 
 * [*In English*](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/README-EN.md)
 
-Este repositório foi criado inicialmente para guardar meus exercicios sobre **Python** conforme eu ia aprendendo.
+Este repositório foi criado inicialmente para guardar meus exercicios em **Python** conforme eu ia aprendendo.
 
-No entanto com meu progresso tive a ideia de criar algo melhor. Um conteúdo facil e intuitivo para quem quer aprender junto comigo sobre a linguagem.
+No entanto, com meu progresso tive a ideia de criar algo melhor. Um conteúdo facil e intuitivo para qualquer um que queira aprender junto comigo sobre a linguagem.
 
 Aqui esta além de meu progresso em **Python**, os exercicios e conteúdos que consumi e pratiquei. Tudo que aprendi foi graças ao canal *Curso em Video* no Youtube, que trás conteúdos **gratuitos** e de extrema qualidade sobre *programação e TI*.
 
