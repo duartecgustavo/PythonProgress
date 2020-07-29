@@ -8,52 +8,88 @@
 ---
 ### TUPLAS - Listas Fixas :pushpin:
 
-> xomeçando pelas **Tuplas ()** que é um modelo de lista **fixa**, ou seja. não pode ser alterada
+> começando pelas **Tuplas ()** que é um modelo de lista **fixa**, ou seja, não podem ser alteradas
 
-# O PYTHON possui 3 tipos de 'listas'.
-# - Comeãndo pelas TUPLAS () que são fixas.
+* TUPLAS SÃO IMUTÁVEIS!
 
-# TUPLAS SÃO IMUTÁVEIS!
+As tuplas são definidas com **()**:
 
-# As tuplas são definidas com ():
+#### Exemplo:
 
-# Ex:
+`lanche = ('hamburguer','suco','brigadeiro', 'bala')` - defini uma tupla
 
-lanche = ('hamburguer','suco','brigadeiro', 'bala')
-print(lanche[::-1])
-print(len(lanche))
-for count in lanche:
-    print(count)
+`print(lanche[::-1])` - estou apresentando a Tupla de *trás para frente*
 
-for c in range(0, len(lanche)):# aqui como a leitura de lanche posssui 4 valores, vai de 0 até 4.
-    print(f'Eu quero come {lanche[c]} na posição {c}')# já aqui vai sempre mostrar o lanche porem o 'c' vai determinar qual valor sera mostrado
+`print(len(lanche))` - apresento *quantos elementos* tem a Tupla com o comando `len()`
 
-print(sorted(lanche))# organiza minha TUPLA por ordem ALFABETICA
+```
+for comida in lanche:
 
-# podemos somar TUPLAS  
+    print(comida, end = ' ') - usando o FOR, mostro a lista sem os parenteses
+```
 
-a = (1, 2, 3)
-b = (5,     7, 6, 4, 5)
-print(a + (b[-1::-1])) # ao somar TUPLAS o python simplesmente une as TUPLAS
+> a manipulação do que o usuario irá ver é igual a **manipulação de STRINGS**
 
-# outros métodos
+---
+### Métodos:
 
-print(len(a)) # vai ter quantos valores tem a TUPLA
+* `len()` - vai **ler quantos valores** tem a tupla - `print(len(tupla))`
 
-print(b.count(6)) # me indicara quantos '6' tem na TUPLA 'b'
+* `.count()` - apresenta quantos **valores especificos** que eu indiquei estão na tupla - `print(b.count(6))`
 
-print(b.index(5))# vai me dizer a posição que 5 aparece
+* `.index()` - vai me dizer a **posição que o valor indicado** aparece - `print(b.index(5))`
 
-# ENUMERATE - posso pegar a posição de algo na TUPLA
-for posicao, comida in enumerate(lanche):
-        print(f'Comi {posicao+1}° a {comida}')
+* `sorted` - **organiza** a tupla por **ordem numerica ou alfabetica** - `print(sorted(lanche))`
+
+---
+### Adicionando itens:
+> podemos adicionar itens a lista unindo funções e metodos da seguinte forma
+
+`lanche = tuple(int(input('Diga a comida que vai no lanche: ')) for comida in range(1,5)`
+
+Acima, **defini a tupla** *lanche* com `tuple`, com o `input` indiquei que **um valor entrará na tupla** e depois com o `for` indiquei **quantas vezes** o a pergunta deve ser apresentada.
+
+---
+### Comando ENUMERATE:
+
+> posso indicar a posição de algo na tupla e o valor presente nesta posição de uma só vez
+
+`for posicao, comida in enumerate(lanche):`
+
+Sempre possuirá dois indices, o **primeiro indica a posição** do item que o `for` está. O **segundo o que está naquela posição**.
+
+```
+        print(f'Comi {posicao+1}° a {comida}') - Comi 1° hamburguer
         
-# unica maneira de modificar TUPLAS é deletando
+        print(f'Comi {posicao+1}° a {comida}') - Comi 2° suco
+```
 
-del(a)
+#### Outra forma de encontrar um item da tupla:
 
-# adicionando valores em uma tupla
+```
+for comida in range(0, len(lanche)):
 
-#tupla = tuple(int(input('Diga um numero: ')) for c in range(1,5)
+    print(f'Eu quero come {lanche[comida]} na posição {comida}'
+```
+
+Já aqui vai sempre mostrar o lanche porem o 'comida' vai determinar qual valor sera mostrado
+
+---
+### Deletendo tupla - `DEL()`
+
+> com o comando `DEL()` você pode **deletar basicamente qualquer coisa** em Python
+
+`del (lanche)` - deletará a tupla
+
+### Somando Tuplas()
+
+```
+a = (1, 2, 3)
+
+b = (5, 7, 6, 4, 5)
+```
+`print(a + (b[-1::-1]))` - ao **somar tuplas** o python simplesmente as une
+
+[:arrow_backward:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/indice.md)
 
 
