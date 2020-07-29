@@ -18,4 +18,6 @@
 
 * Laços de repetição WHILE [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/2.1-la%C3%A7o-while.md)
 
+* Tuplas [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3-tuplas.md)
+
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
