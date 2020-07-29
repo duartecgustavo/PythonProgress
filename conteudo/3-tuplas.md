@@ -1,4 +1,14 @@
-# TUPLAS - LISTAS FIXAS
+## Python - Listas :ledger:
+> a linguagem **Python** possui 3 modelos de listas
+
+* Tuplas ()
+* Listas []
+* Bibliotecas {}
+
+---
+### TUPLAS - Listas Fixas :pushpin:
+
+> xomeçando pelas **Tuplas ()** que é um modelo de lista **fixa**, ou seja. não pode ser alterada
 
 # O PYTHON possui 3 tipos de 'listas'.
 # - Comeãndo pelas TUPLAS () que são fixas.
