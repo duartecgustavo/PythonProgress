@@ -1,5 +1,5 @@
-## Python - Listas 	:bookmark_tabs:
-> a linguagem **Python** possui 3 modelos de listas
+## Python - Armazenagento de dados :bookmark_tabs:
+> a linguagem **Python** possui 3 modelos de armazenagem de dados
 
 * Tuplas ()
 * Listas []
