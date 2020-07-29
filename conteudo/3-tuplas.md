@@ -1,4 +1,4 @@
-## Python - Listas :ledger:
+## Python - Listas 	:bookmark_tabs:
 > a linguagem **Python** possui 3 modelos de listas
 
 * Tuplas ()
@@ -31,7 +31,7 @@ for comida in lanche:
 > a manipulação do que o usuario irá ver é igual a **manipulação de STRINGS**
 
 ---
-### Métodos:
+### Métodos :abacus:
 
 * `len()` - vai **ler quantos valores** tem a tupla - `print(len(tupla))`
 
@@ -42,7 +42,7 @@ for comida in lanche:
 * `sorted` - **organiza** a tupla por **ordem numerica ou alfabetica** - `print(sorted(lanche))`
 
 ---
-### Adicionando itens:
+### Adicionando itens :heavy_plus_sign:
 > podemos adicionar itens a lista unindo funções e metodos da seguinte forma
 
 `lanche = tuple(int(input('Diga a comida que vai no lanche: ')) for comida in range(1,5)`
@@ -50,7 +50,7 @@ for comida in lanche:
 Acima, **defini a tupla** *lanche* com `tuple`, com o `input` indiquei que **um valor entrará na tupla** e depois com o `for` indiquei **quantas vezes** o a pergunta deve ser apresentada.
 
 ---
-### Comando ENUMERATE:
+### Comando ENUMERATE :inbox_tray:
 
 > posso indicar a posição de algo na tupla e o valor presente nesta posição de uma só vez
 
@@ -75,7 +75,7 @@ for comida in range(0, len(lanche)):
 Já aqui vai sempre mostrar o lanche porem o 'comida' vai determinar qual valor sera mostrado
 
 ---
-### Deletendo tupla - `DEL()`
+### Deletendo tupla - `DEL()` :x:
 
 > com o comando `DEL()` você pode **deletar basicamente qualquer coisa** em Python
 
@@ -89,6 +89,7 @@ a = (1, 2, 3)
 b = (5, 7, 6, 4, 5)
 ```
 `print(a + (b[-1::-1]))` - ao **somar tuplas** o python simplesmente as une
+
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/indice.md)
 
