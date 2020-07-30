@@ -35,19 +35,19 @@ for comida in lanche:
 
 * `len()` - vai **ler quantos valores** tem a tupla - `print(len(tupla))`
 
-* `.count()` - apresenta quantos **valores especificos** que eu indiquei estão na tupla - `print(b.count(6))`
+* `.count()` - apresenta quantos **valores especificos** que eu indiquei estão na tupla - `print(lanche.count('bala'))`
 
-* `.index()` - vai me dizer a **posição que o valor indicado** aparece - `print(b.index(5))`
+* `.index()` - vai me dizer a **posição que o valor indicado** aparece - `print(lanche.index('bala'))`
 
 * `sorted` - **organiza** a tupla por **ordem numerica ou alfabetica** - `print(sorted(lanche))`
 
 ---
 ### Adicionando itens :heavy_plus_sign:
-> podemos adicionar itens a lista unindo funções e metodos da seguinte forma
+> podemos adicionar itens a tupla unindo funções e metodos da seguinte forma
 
 `lanche = tuple(int(input('Diga a comida que vai no lanche: ')) for comida in range(1,5)`
 
-Acima, **defini a tupla** *lanche* com `tuple`, com o `input` indiquei que **um valor entrará na tupla** e depois com o `for` indiquei **quantas vezes** o a pergunta deve ser apresentada.
+Acima, **defini a tupla** *lanche* com `tuple`, com o `input` indiquei que **um valor entrará na tupla** e depois com o `for` indiquei **quantas vezes** aquele `imput` deve ser feito.
 
 ---
 ### Comando ENUMERATE :inbox_tray:
