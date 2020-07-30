@@ -92,5 +92,3 @@ b = (5, 7, 6, 4, 5)
 
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/indice.md)
-
-
