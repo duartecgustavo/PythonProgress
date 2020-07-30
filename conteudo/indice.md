@@ -20,4 +20,6 @@
 
 * Tuplas [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3-tuplas.md)
 
+* Listas [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3.1-listas.md)
+
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
