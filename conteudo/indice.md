@@ -22,4 +22,6 @@
 
 * Listas [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3.1-listas.md)
 
+* Cores - construindo... 
+
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
