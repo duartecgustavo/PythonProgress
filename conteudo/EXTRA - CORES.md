@@ -1,7 +1,7 @@
 #### EXTRA - ADICIONANDO CORES :paintbrush:
-sempre que você quiser representar uma cor em Pythonbasta usar o comando `\033+[stylo:.text:.background+m`
+> sempre que você quiser representar uma cor em Python, basta usar o comando `\033+[stylo:.text:.background+m`
 
-**Ex:**
+**Exemplo:**
 
 `print('\033[1:30:41m Olá, mundo!\033[m')`
 
@@ -15,14 +15,40 @@ sempre que você quiser representar uma cor em Pythonbasta usar o comando `\033+
 
 `print('\033[7:30m Olá, mundo!\033[m')`
 
-# Style - Estilo da cor
-# 0 = Texto sem formatação
-# 1 = Negrito
-# 4 = Texto sublinhado
-# 7 = Inversão de cores com o fundo
+> primeiro vem o **parâmetro** para **estilo** depois o de **cor**.
 
-# Text - Cor do texto
-# 30 - Branco ; 31 - Vermelho ; 32 - Verde ; 33 - Amarelo ; 34 - Azul ; 35 - Lilas ; 36 - Azul bb ; 37 - Cinza(ocor padrõ do terminal;
+---
+
+### Style - Estilos :registered:
+
+* **0** = Texto sem formatação.
+
+* **1** = Negrito.
+
+* **4** = Texto sublinhado.
+
+* **7** = Inversão de cores com o fundo.
+
+---
+### Collors - Cor do texto :eight_spoked_asterisk:
+
+* 30 - Branco :white_circle:
+
+* 31 - Vermelho :red_circle:
+
+* 32 - Verde :green_circle:
+
+* 33 - Amarelo :yellow_circle:
+
+* 34 - Azul :large_blue_circle:
+
+* 35 - Lilas :purple_circle:
+
+* 36 - Azul BB :radio_button:
+
+* 37 - Cinza :black_square_button: cor padrão do terminal
+
+---
 
 # Backgroun - Cor do fundo
 # a mesma sequencia do Text, mas com 40, 41, 42... 47;
