@@ -12,9 +12,9 @@ Here is in addition to my  progress, as too the exercises and contents that I ha
 
 Below, you can access exercises lists that I have been updating according I progress and evolve. Besides that  you can to find some links about the history of Python, the 'Zen of Python' and the site of 'Curso em Video' .
 
-* [Short history about **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/short-history-python.md)
-* [Zen of **python**;](https://github.com/duartecgustavo/Python-Progress/blob/master/zen-of-python.md)
-* [Curso em Video channnel;](https://www.cursoemvideo.com/)
+* [Short history about **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/short-history-python.md)
+* [Zen of **python**](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/zen-of-python.md)
+* [Games](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/Joguinhos.md)
 
 ### - [x] World 1 - Complete.
    * Composed of 46 videos.
