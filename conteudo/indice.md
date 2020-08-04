@@ -17,19 +17,19 @@
 ---
 ### Mundo 2 :earth_americas:
 
-* Condições IF e ELSE . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.6-condi%C3%A7%C3%B5es-if-else.md)
+* Condições IF e ELSE . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.6-condi%C3%A7%C3%B5es-if-else.md)
 
-* Laços de repetição FOR . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/2.0-la%C3%A7o-for.md)
+* Laços de repetição FOR . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/2.0-la%C3%A7o-for.md)
 
-* Laços de repetição WHILE . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/2.1-la%C3%A7o-while.md)
+* Laços de repetição WHILE . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/2.1-la%C3%A7o-while.md)
 
 ---
 ### Mundo 3 :earth_africa:
 
-* Tuplas [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3-tuplas.md)
+* Tuplas . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3-tuplas.md)
 
-* Listas [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3.1-listas.md)
+* Listas . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3.1-listas.md)
 
-* Cores [:art:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/EXTRA%20-%20CORES.md)
+* Cores . . . . . . . . . . . . .[:art:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/EXTRA%20-%20CORES.md)
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
