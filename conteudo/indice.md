@@ -21,7 +21,7 @@
 
 * Laços de repetição FOR [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/2.0-la%C3%A7o-for.md)
 
-* Laços de repetição WHILE [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/2.1-la%C3%A7o-while.md
+* Laços de repetição WHILE [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/2.1-la%C3%A7o-while.md)
 
 ---
 ### Mundo 3 :earth_africa:
