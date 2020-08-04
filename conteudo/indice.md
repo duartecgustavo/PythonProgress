@@ -10,7 +10,7 @@
 
 * Comandos Primitivos . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.3-comandos-primitivos.md)
 
-* Bibliotecas . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.4-bibliotecas.md)
+* Bibliotecas . . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.4-bibliotecas.md)
 
 * Manipulação de Dados . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.5-analise-de-dados.md)
 
