@@ -32,7 +32,8 @@ for jogo in quantjogos:
     count += 1
     print(f'Jogo {count} -',end=' ')
     for item in jogo:
-        print(item,end=' ')
+        print(f'{item:^4}',end=' ')
+        
     print()
     sleep(0.75)
 

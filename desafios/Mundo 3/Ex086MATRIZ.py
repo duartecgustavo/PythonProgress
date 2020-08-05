@@ -22,7 +22,7 @@ for c in range(1,10):
 print('-='*15)
 
 for valor in lista:
-    print(f'{valor}',end=' ')
+    print(f'{f"{valor}":^3}',end=' ')
     count += 1
     if count > 2:
         print()
