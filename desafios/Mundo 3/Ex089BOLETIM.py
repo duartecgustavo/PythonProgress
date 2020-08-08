@@ -1,4 +1,4 @@
-# Desadio 89 - Aula 18 : Programa que leia o NOME e DUAS NOTAS de VARIOS ALUNOS. Depois guarde tudo em uma lista composta.
+# Desafio 89 - Aula 18 : Programa que leia o NOME e DUAS NOTAS de VARIOS ALUNOS. Depois guarde tudo em uma lista composta.
 # Mostre o Boletim contendo a média de cada aluno.
 # Permita que o usuario possa ver a nota de cada aluno individualmente.
 
