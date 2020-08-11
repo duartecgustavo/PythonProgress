@@ -4,11 +4,11 @@
 
 from random import randint
 from time import sleep
+from operator import itemgetter
 
 dado = {}
 valores = []
 count = count2  =  0
-ranking = []
 maiorjog = maiordado = 0
 
 dado['jogador_1'] = randint(1,6)
@@ -19,11 +19,9 @@ dado['jogador_4'] = randint(1,6)
 valores.append(dado.copy())
 
 print('Valores Sorteados: ')
-for jogador in valores:
-    count+=1
-    for indice, jog in jogador.items():
-        print(f'    O {indice} tirou {jog}.')
-        sleep(0.35)
+for indice, jog in dado.items():
+    print(f'    O {indice} tirou {jog}.')
+    sleep(0.35)
 
 print('=-'*15)
 print('Ranking dos jogadores: ')
@@ -42,4 +40,16 @@ for jogador in valores:
         print(f'    {count2}° lugar : {maiorjog} que tirou {maiordado}.' )
 
         del jogador[f'{maiorjog}']
+
+# ouuu
+
+ranking = []
+ranking = sorted(dado.items(), key = itemgetter(1), reverse=True)
+
+# com o 'operator' 'itemgetter()' consigo ordenar minha de acordo com o parabmetro que eu desejo.
+
+print('     Com ITEMGETTER()')
+for k, v in enumerate(ranking):
+    print(f'        {k+1}° lugar : {v[0]} com {v[1]}.')
+
 
