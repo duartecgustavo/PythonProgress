@@ -5,64 +5,57 @@
 
 from datetime import date
 
-dados = {}
+dados = dict()
 
-dados['nome'] = str(input('Nome: ').capitalize())
+dados['Nome'] = str(input('Nome: ').capitalize())
 
-dados['nascimento'] = int(input('Data de Nascimento:'))
-while dados['nascimento'] > (date.today().year - 16):
-    print('Data invalida!\nVocê deve ter no minimo 16 anos.')
-    del dados['nascimento']
-    dados['nascimento'] = int(input('Data de Nascimento:'))
+nasc = int(input('Ano de Nascimento: '))
+while True:
+    if nasc > date.today().year:
+        print(f'{"ATENÇÃO":-^30}')
+        print(f'Data invalida!\nDigite o ano correto.')
+        nasc = int(input('Ano de Nascimento:'))
+        print(f'{"-"*30}')
+    elif date.today().year >= nasc > (date.today().year - 16):
+        print(f'{"ATENÇÃO":-^30}')
+        print(f'Você ainda não tem idade para trabalhar!\nVolte comm 16 anos.')
+        print(f'{"-"*30}')
+        break
+    else:
+        dados['Idade'] = date.today().year - nasc
+        break
 
-dados['CT'] = int(input('N° da Carteira (4 digitos): '))
-while dados['CT'] > 9999:
-    print('N° invalido!')
-    del dados['CT']
-    dados['CT'] = int(input('N° da Carteira: '))
 
-if dados['CT'] == 0:
-    print(f'{dados["nome"]}, você deve fazer sua Carteira de Trabalho!')
-break
+ctps = str(input('Numero da CTPS [5 digitos]: '))
+while ctps != '0':
+    if len(ctps) != 5:
+        print(f'{"ATENÇÃO":-^30}')
+        print(f'Dados invalidos!\nA sua Carteira de Trabalho só pode conter 5 digitos!')
+        ctps = str(input('Numero da CTPS: '))
+        print(f'{"-"*30}')
+    else:
+        dados['CTPS'] = ctps
+        break
+if ctps == '0':
+    dados['CTPS'] = ctps
 else:
-    dados['contratacao'] = int(input('Ano de contratação: '))
-    while dados['contratacao'] < dados['nascimento'] + 16 :
-        print('Data invalida!\nVocê deve ter no minimo 16 anos.')
-        del dados['contratacao']
-        dados['contratacao'] = int(input('Ano de contratação: '))
-    dados['salario'] = float(input('Salário: R$ '))
+    contratacao = int(input('Ano de Contratação: '))
+    while contratacao <= (nasc + 16) or contratacao > (nasc + 70):
+        print(f'{"ATENÇÃO":-^30}')
+        print(f'Informação invalida!')
+        print(f'{"-"*30}')
+        contratacao = int(input('Ano de Contratação: '))
+    dados['Contratação'] = contratacao
 
-idade = date.today().year - dados["nascimento"]
-anosct = date.today().year - dados['contratacao']
+    dados['Salário'] = float(input(f'Salário: R$'))
+
+    aposentadoria = dados['Idade'] + ((dados['Contratação'] + 35) - date.today().year)
+    dados['Aposentadoria'] = aposentadoria
 
 print('=-'*15)
 print(f'Banco de Dados: {dados}')
 print('=-'*15)
 
+for key, valor in dados.items():   
 
-for key, valor in dados.items():
-
-    # Nome
-    if  key == 'nome':
-        print(f'Nome: {dados["nome"]}')
-
-    # Nascimento
-    if key == 'nascimento':
-        print(f'Idade: {date.today().year - dados["nascimento"]} anos')
-
-    # Carteira
-    if key == 'CT':
-        print(f'N° da Carteira: {dados["CT"]}')
-
-    # Contratação
-    if key == 'contratacao':
-        print(f'Contratação: {dados["contratacao"]}')
-
-    # Salario
-    if key == 'salario':
-        print(f'Salário: R${dados["salario"]:.2f}')
-
-print('=-'*15)
-    # Aposentadoria
-print(f'Você vai se aposentar com {(idade + 35) - anosct} anos em {dados["nascimento"] + ((idade + 35) - anosct)}.')
-
+    print(f'{key}: {valor}')    
