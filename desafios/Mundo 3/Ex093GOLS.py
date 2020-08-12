@@ -29,7 +29,12 @@ for k, v in banco.items():
     elif k == 'Partidas':
         print(f'Partidas Disputadas: {v} jogos')
     
-    elif k == 'total':
-        print(f'Total Gols marcados: {v}')
+    elif k == 'gols':
+        print(f'-'*30)
+        print(f'O jogador {banco["Nome"]} fez: ')
+        for part, gol in enumerate(gols):
+            print(f'=> {part+1}° partida - {gol} gols.')
+        print(f'Com o total de {banco["total"]} gols.')
 
 print(f'-'*30)
+
