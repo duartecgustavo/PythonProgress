@@ -17,7 +17,7 @@ dado['jogador_3'] = randint(1,6)
 dado['jogador_4'] = randint(1,6)
 
 valores.append(dado.copy())
-
+print(valores)
 print('Valores Sorteados: ')
 for indice, jog in dado.items():
     print(f'    O {indice} tirou {jog}.')

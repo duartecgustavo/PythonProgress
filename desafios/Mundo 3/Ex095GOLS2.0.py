@@ -38,13 +38,15 @@ while True:
 
 
 #------------------------------------------------ AMOSTRAGEM DOS DADOS ------------------------------------------------#
+print(time)
 
-
-print(f'{"Cod.":<5}{"Jogador.":<15}{"Gols.":<10}{"Total.":<5}')
+print(f'{"Cod.":<5}{"Jogador.":<15}{"Gols.":<15}{"Total.":<15}')
 for pos, jogador in enumerate(time):
     print(f'{pos:<5}',end='')
-    for valor in jogador.values(
-        print(f'{str(valor):<15}',end='')
+    for ind, valor in jogador.items():
+        if ind in 'nome' or ind in 'gols' or ind in 'total':
+            print(f'{str(valor):<15}',end='')
+    print('')
 
 #------------------------------------------------ ANALIZE DOS DADOS ------------------------------------------------#
 
