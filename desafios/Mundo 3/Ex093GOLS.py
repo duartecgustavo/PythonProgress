@@ -1,6 +1,6 @@
-# Desafio 93 - Aula 19 : Programa que gerencie o aproveitamento de um jogador de Futebol.
-# Leia o NOME e quantas PARTIDAS o jogador jogou e depois leia quantos GOLS foram feitos em cada partida.
-# Guarde tudo em um dicionario e apresente!
+# Desafio 93 - Aula 19 : Programa que gerencie o aproveitamento de um jogador de futebol.
+# Leia o NOME, quantas PARTIDAS jogou e depois leia quantos GOLS foram feitos em cada partida.
+# Guarde tudo em um dicionario e apresente.
 
 banco = {}
 gols = []
