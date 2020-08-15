@@ -1,4 +1,4 @@
-# Desafio 94 - Aula 19 : Programa que leia NOME, SEXO e IDADE de varias pessoas. Guarde cada dado em um dicionario. No fim mostre:
+# Desafio 94 - Aula 19 : Programa que leia NOME, SEXO e IDADE de varias pessoas, guarde cada dado em um dicionario e ao fim mostre:
 # A/ Quantas pessoas foram cadastradas.
 # B/ Média de idade do grupo.
 # C/ Lista com todas as mulheres.
