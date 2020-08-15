@@ -1,7 +1,7 @@
 # Desafio 92 - Aula 19 : Programa que leia o NOME, ANO DE NASCIMENTO e o numero da CARTEIRA DE TRABALHO(aleatorio).
-# E ainda, caso seja digitado 0 na CTPS, nada acontece.
+# Caso seja digitado 0 na CTPS, nada acontece.
 # Se for digitado algo, perguntar também o ANO DE CONTRATAÇÃO e o SALARIO.
-# No final mostre, TODAS AS INFOS e a IDADE(FORMATADA) e a IDADE DE APOSENTADORIA(35 anos o minimo).
+# No final mostre, TODAS AS INFOS, IDADE(FORMATADA) e a IDADE DE APOSENTADORIA(35 anos o minimo).
 
 from datetime import date
 
