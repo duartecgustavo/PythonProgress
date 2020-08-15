@@ -1,6 +1,6 @@
 # Desafio 91 - Aula 19 : Programa onde 4 jogadores joguem dados e cada um receba um valor aleatorio (1, 6).
-# Guarde esses valores em um dicionario e depois apresente os resultados em ORDEM.
-# Mostre o o vencedor que tirou o maior numero.
+# Guarde esses valores em um dicionario e depois apresente os resultados em ordem.
+# Mostre o quem tirou o maior numero.
 
 from random import randint
 from time import sleep

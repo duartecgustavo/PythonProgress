@@ -30,9 +30,9 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
    - Contém **36 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo2-lista-desafios.md)** praticos sobre os conceitos abordados.
 
 ### - [ ] Mundo 3 [:earth_africa:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/indice.md) - carregando. . 
-   *  Composto de 41 videos.
-   - Sendo **8 aulas** [...]
-   - Contém **42 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo3-lista-desafios.md)** praticos sobre os conceitos abordados.
+   * Composto de 54 videos.
+   - Sendo **8 aulas** que compreendem desde estruturas de armazenamento de dados como `tuplas`, `listas` e `dicionarios` até `funções` e `tratamento de erros`.
+   - Contém **46 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo3-lista-desafios.md)** praticos sobre os conceitos abordados.
 
 
 ![Assinatura1 2](https://user-images.githubusercontent.com/65131471/85914617-e9873e00-b815-11ea-8a6d-72f6ffcd8882.png)
