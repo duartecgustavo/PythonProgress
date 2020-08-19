@@ -1,2 +1,6 @@
-dicionario = {'nome':'Gustavo','idade':'22','nome':'joão','idade':'25'}
-print(dicionario)
+def linha():
+    print('=-'*30)
+
+
+linha()
+linha()

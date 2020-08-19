@@ -48,6 +48,9 @@ for pos, jogador in enumerate(time):
             print(f'{str(valor):<15}',end='')
     print('')
 
+# {v["Gols"]!s:<15s}
+# Esse comando !s:s converte uma lista em str temporariamente.
+
 #------------------------------------------------ ANALIZE DOS DADOS ------------------------------------------------#
 
 choice = str(input('Quer analizar um jogador em especifico? [S/N]')).upper()[0]
