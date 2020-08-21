@@ -3,6 +3,11 @@
 # Leia o NOME e quantas PARTIDAS o jogador ou jogadores jogaram e depois leia quantos GOLS foram feitos em cada partida.
 # Apresente uma tabela dinamica  onde eu possa consultar os detalhes de cada jogador.
 
+def validando(choice)
+    while choice not in 'SN':
+        choice = str(input('Opção invalida!\nDeseja continuar? [S/N] ').upper()[0])
+
+        
 jogador = {}
 time = []
 gols = []
@@ -31,8 +36,8 @@ while True:
     print('-'*30)
     choice = str(input('Deseja continuar? [S/N] ').upper()[0])
     print('-'*30)
-    while choice not in 'SN':
-        choice = str(input('Opção invalida!\nDeseja continuar? [S/N] ').upper()[0])
+    validando(choice)
+
     if choice in 'N':
         break
 
