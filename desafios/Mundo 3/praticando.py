@@ -1,5 +1,8 @@
-def mais_um_ano(idade):
-    print('Sua idade é:')
-    return idade + 1
+def contador(*num):
+    for c in num:
+        print(c)
+    print(num)
 
-mais_um_ano(5)
+contador(3, 5)
+contador(4, 5 ,7, 9)
+contador(7)
