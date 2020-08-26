@@ -3,6 +3,10 @@
 # Leia o NOME e quantas PARTIDAS o jogador ou jogadores jogaram e depois leia quantos GOLS foram feitos em cada partida.
 # Apresente uma tabela dinamica  onde eu possa consultar os detalhes de cada jogador.
 
+def escolha(X):
+    while X not in 'SN':
+        choice = str(input('Opção invalida!\nDeseja continuar? [S/N] ').upper()[0])    
+
 jogador = {}
 time = []
 gols = []
@@ -31,8 +35,9 @@ while True:
     print('-'*30)
     choice = str(input('Deseja continuar? [S/N] ').upper()[0])
     print('-'*30)
-    while choice not in 'SN':
-        choice = str(input('Opção invalida!\nDeseja continuar? [S/N] ').upper()[0])
+
+    escolha(choice)
+    
     if choice in 'N':
         break
 
@@ -54,8 +59,7 @@ for pos, jogador in enumerate(time):
 #------------------------------------------------ ANALIZE DOS DADOS ------------------------------------------------#
 
 choice = str(input('Quer analizar um jogador em especifico? [S/N]')).upper()[0]
-while choice not in 'SN':
-    choice = str(input('Opção invalida!\nDeseja continuar? [S/N] ')).upper()[0]
+escolha(choice)
 
 while choice in 'S':
     print('-'*40)
@@ -74,10 +78,8 @@ while choice in 'S':
 
     count = 0
     print('-'*40)
-    choice = str(input('Quer analizar outro jogador em especifico? [S/N]')).upper()[0]
-    while choice not in 'SN':
-        print('-'*40)
-        choice = str(input('Opção invalida!\nDeseja continuar? [S/N] ')).upper()[0]
+    #choice = str(input('Quer analizar outro jogador em especifico? [S/N]')).upper()[0]
+    escolha(choice = str(input('Quer analizar outro jogador em especifico? [S/N]')).upper()[0])
 
 print('='*30)
 print('Programa finalizado!')
