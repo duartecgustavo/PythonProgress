@@ -72,4 +72,17 @@
 
 95 - Gols 2.0 [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex095GOLS2.0.py)
 
+#### Aula 20 - Funções Pt1 [:link:]()
+
+96 - Área() [:triangular_ruler:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex096FUN%C3%87%C3%95ES.py)
+
+97 - Texto() [:cool:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex097.py)
+
+98 - Contador() [:pager:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex098CONTAGEM.py)
+
+99 - Maior() [:arrow_forward:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex099.py)
+
+100 - Sorteio() [:atm:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex100.py)
+
+
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
