@@ -5,7 +5,6 @@ def area(a , l):
     ar = a * l
     print(f'A área do terreno, seguindo a Largura de {l} e a Altura de {a} é igual à {ar}m²:')
 
-
 a=(float(input('Altura: ')))
 l=float(input('Largura: '))
 area(a, l)
