@@ -1,5 +1,5 @@
 # Desafio 99 - Aula 20 : Programa que tenha a função maior() e que receba varios valores inteiros.
-# Depois analise estesvalores e traga o maior.
+# Depois analise estes valores e traga o maior.
 
 def maior(*num):
     if len(num) == 0:
