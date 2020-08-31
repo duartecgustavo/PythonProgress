@@ -32,8 +32,13 @@
 
 * Dicionarios . . . . . . .  .  . .  . .  . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3.2-dicionarios.md)
 
+* Funções Pt1 . . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/edit/master/conteudo/3.3-fun%C3%A7%C3%B5es.py)
+
+---
+### Extra
+
 * Cores . . . . . . . . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/EXTRA%20-%20CORES.md)
 
-* Funções Pt1 . . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/edit/master/conteudo/3.3-fun%C3%A7%C3%B5es.py)
+
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
