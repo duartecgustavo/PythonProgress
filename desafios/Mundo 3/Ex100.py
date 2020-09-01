@@ -6,7 +6,6 @@ from random import randint
 
 lista = [0, 0, 0, 0, 0]
 
-
 def sorteio(lst):
     print('Sorteando os 5 valores da lista:', end=' ')
     for count in range(0,5):
@@ -20,7 +19,6 @@ def somaPar(lst):
         if valor % 2 ==0:
             soma += valor
     print(soma)
-
 
 sorteio(lista)
 somaPar(lista)

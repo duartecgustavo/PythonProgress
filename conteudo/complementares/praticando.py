@@ -1,59 +1,22 @@
-# Desafio 94 - Aula 19 : Programa que leia NOME, SEXO e IDADE de varias pessoas, guarde cada dado em um dicionario e ao fim mostre:
-# A/ Quantas pessoas foram cadastradas.
-# B/ Média de idade do grupo.
-# C/ Lista com todas as mulheres.
-# D/ Lista com todas as pessoas com IDADE acima da média.
+# Desafio 100 - Aula 20: Programa que tenha uma lista chamada 'numeros' e duas funções, chamadas sorteio() e somaPar().
+# A função sorteio irá sortear 5 numeros e adicionalos dentro da lista.
+# E a função somaPar() irá somar os valores pares dentro desta lista.
 
-def escolha(X):
-    while X not in 'SN':
-        choice = str(input('Opção invalida!\nDeseja continuar? [S/N] ').upper()[0])   
+from random import randint
 
+def sorteio(*num):
+    for c in range(0,5):
+        numeros.append(randint(0,10))
+    print(numeros)
 
-def linha():
-    print('-='*15)
+def somaPar(num):
+    ssp = 0
+    for n in num:
+        if n % 2 == 0:
+            ssp+=n
+    print(ssp)
 
-pessoa = dict()
-galera = list()
-somaidade = 0
+numeros = []
 
-while True:
-    pessoa['nome'] = str(input("Nome: ")).capitalize()
-
-    sexo = str(input('Sexo [H/M]: ')).upper()[0]
-    while sexo not in 'HM':
-        linha()
-        sexo = str(input('Invalido!\nSexo [H/M]: ')).upper()[0]
-    pessoa['sexo'] = sexo
-
-    idade = int(input('Idade: '))
-    while idade < 0 or idade > 100:
-        linha()
-        idade = int(input('Invalida!\nIdade: '))
-    pessoa['idade'] = idade
-
-    galera.append(pessoa.copy())
-
-    choice = str(input('Quer continuar? [S/N] ')).upper()[0]
-    escolha(choice)
-    if choice in 'N':
-        break
-
-print(f'Foram cadastradas {len(galera)} pessoas.')
-
-for pos, pessoa in enumerate(galera):
-    for ind, valor in pessoa.items():
-        if ind  in 'idade':
-            somaidade+=valor
-
-print(f'A média de idade da galera é {somaidade/len(galera):.2f} anos.')
-
-print('As mulheres cadastradas foram: ')
-for pos, pessoa in enumerate(galera):
-    for ind, valor in pessoa.items():
-        if ind in 'sexo' and valor in 'mM':
-            print(pessoa['nome'])
-
-for pos, pessoa in enumerate(galera):
-    if pessoa['idade'] > (somaidade/len(galera)):
-        print(pessoa['nome'],end=' ')
-        print(pessoa['idade'])
+sorteio(numeros)
+somaPar(numeros)

@@ -78,9 +78,8 @@ while choice in 'S':
 
     count = 0
     print('-'*40)
-    #choice = str(input('Quer analizar outro jogador em especifico? [S/N]')).upper()[0]
-    escolha(choice = str(input('Quer analizar outro jogador em especifico? [S/N]')).upper()[0])
+    choice = str(input('Quer analizar outro jogador em especifico? [S/N]')).upper()[0]
+    escolha(choice)
 
 print('='*30)
 print('Programa finalizado!')
-
