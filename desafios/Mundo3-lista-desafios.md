@@ -58,6 +58,7 @@
 
 89 - Boletim [:bookmark_tabs:](https://github.com/duartecgustavo/Python-Progress/edit/master/desafios/Mundo%203/Ex089BOLETIM.py)
 
+---
 #### Aula 19 - Dicionarios [:link:](https://www.youtube.com/watch?v=ZWj8o692qGY)
 
 90 - APROVADO/REPROVADO [:ballot_box_with_check:](https://github.com/duartecgustavo/Python-Progress/edit/master/desafios/Mundo%203/Ex090DICIONARIOS.py)
@@ -71,5 +72,19 @@
 94 - Analizando grupo [:mag:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex094ANALIZE.py)
 
 95 - Gols 2.0 [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex095GOLS2.0.py)
+
+---
+#### Aula 20 - Funções Pt1 [:link:]()
+
+96 - Área() [:triangular_ruler:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex096FUN%C3%87%C3%95ES.py)
+
+97 - Texto() [:cool:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex097.py)
+
+98 - Contador() [:pager:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex098CONTAGEM.py)
+
+99 - Maior() [:arrow_forward:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex099.py)
+
+100 - Sorteio() [:atm:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex100.py)
+
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)

@@ -1,5 +1,5 @@
-# Desafio 100 - Aula 20: Programa que tenha uma lista chamada 'numeros' e duas funções, chamadas sorteio() e somaPar().
-# A função sorteio irá sortear 5 numeros e adicionalos dentro da lista.
+# Desafio 100 - Aula 20: Programa que tenha uma lista chamada numeros[] e duas funções chamadas sorteio() e somaPar().
+# A função sorteio() irá sortear 5 numeros e adicionalos dentro da lista numeros[].
 # E a função somaPar() irá somar os valores pares dentro desta lista.
 
 from random import randint
