@@ -1,22 +1,8 @@
-# Desafio 100 - Aula 20: Programa que tenha uma lista chamada 'numeros' e duas funções, chamadas sorteio() e somaPar().
-# A função sorteio irá sortear 5 numeros e adicionalos dentro da lista.
-# E a função somaPar() irá somar os valores pares dentro desta lista.
+def somar(a=0,b=0,c=0):
+    s = a+b+c
+    return s
 
-from random import randint
-
-def sorteio(*num):
-    for c in range(0,5):
-        numeros.append(randint(0,10))
-    print(numeros)
-
-def somaPar(num):
-    ssp = 0
-    for n in num:
-        if n % 2 == 0:
-            ssp+=n
-    print(ssp)
-
-numeros = []
-
-sorteio(numeros)
-somaPar(numeros)
+r1 = somar(4, 5)
+r2 = somar(3, 2, 8)
+r3 = somar(1)
+print(r1, r2, r3)
