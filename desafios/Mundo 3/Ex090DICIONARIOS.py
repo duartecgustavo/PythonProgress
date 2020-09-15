@@ -16,5 +16,6 @@ else:
 
 print('=-'*20)
 
-for indice, cont in aluno.items():
-    print(f'{indice} é {cont}.')
+print(aluno)
+#for indice, cont in aluno.items():
+ #   print(f'{indice} é {cont}.')
