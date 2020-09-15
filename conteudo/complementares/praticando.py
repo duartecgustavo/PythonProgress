@@ -1,8 +1,16 @@
-def somar(a=0,b=0,c=0):
-    s = a+b+c
-    return s
-
-r1 = somar(4, 5)
-r2 = somar(3, 2, 8)
-r3 = somar(1)
-print(r1, r2, r3)
+def leiaInt(msg):
+    ok = False
+    valor = 0
+    while True:
+        numero = str(input(msg))
+        if numero.isnumeric():
+            ok = True
+            valor = int(numero)
+        else:
+            print('ERROO! Diga um numero inteiro valido!')
+        if ok == True:
+            break
+    return valor 
+    
+numero = leiaInt('Diga um numero: ')
+print(f'O numero digitado foi {numero}.')
