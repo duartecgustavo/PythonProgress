@@ -23,9 +23,14 @@ def notas(*num, sit = False):
     for c in num:
         soma+=c
     media = soma/quant
+    # media = sum(num)/len(num)
 
     if media >= 7:
-        sit = True
+        sit = 'Boa!'
+    elif 5 < media < 7:
+        sit = 'Medio'
+    else:
+        sit = 'Ruim!'
     
     dict = {'Quantidade': quant, 'Maior': maior, 'Menor': menor, 'Média': media, 'Situação': sit}
     return dict
