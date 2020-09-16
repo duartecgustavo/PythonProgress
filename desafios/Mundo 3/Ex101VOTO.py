@@ -1,6 +1,7 @@
-# Desafio 101 - Aula 21: Programa que valide o voto pela idade.
-# Deve possuir uma FUNÇÃO() chamada voto() que vai receber  o parametro Ano de Nascimento
-# Depois retornara um valor literal que pode ser NEGADO, OPCIONAL, OBRIGATÓRIO nas eleições
+# Desafio 101 - Aula 21: Programa que valide o voto pela idade do individuo.
+# Deve possuir uma função chamada voto(), que vai receber o parâmetro Ano_de_Nascimento.
+# Depois retornara um valor literal que pode ser NEGADO, OPCIONA ou OBRIGATÓRIO nas eleições.
+
 def voto(ano = 0):
     from datetime import date
     idade = date.today().year - ano
