@@ -34,6 +34,8 @@
 
 * Funções Pt1 . . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3.3-fun%C3%A7%C3%B5es.md)
 
+* Funções Pt2 . . . . . loading . . . . . .[:link:](https://github.com/ikatyang/emoji-cheat-sheet#person-sport)
+
 ---
 ### Extra
 
