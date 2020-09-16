@@ -30,6 +30,6 @@ Below, you can access exercises lists that I have been updating according I prog
 
 ### - [ ] World 3 - loading. . 
 
-![Signature](https://user-images.githubusercontent.com/65131471/84540714-5a820e00-accc-11ea-9ad4-57ef348ead4b.jpg)
+![1 3](https://user-images.githubusercontent.com/65131471/93384405-296d2880-f83b-11ea-96d5-11b6c56200fa.png)
 
 [:arrow_left:](https://github.com/duartecgustavo/Python-Progress)
