@@ -35,7 +35,7 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
    - Contém **46 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo3-lista-desafios.md)** praticos sobre os conceitos abordados.
 
 
-![1 3](https://user-images.githubusercontent.com/65131471/93384405-296d2880-f83b-11ea-96d5-11b6c56200fa.png)
+![1 3-1](https://user-images.githubusercontent.com/65131471/93386595-5111c000-f83e-11ea-8bcf-0a00dd2a2a3d.png)
 
 
 [:arrow_left:](https://github.com/duartecgustavo)
