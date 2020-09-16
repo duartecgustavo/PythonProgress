@@ -1,6 +1,6 @@
 # Desafio 106 - Aula 21: Programa que utilize o 'interactive help' do Python.
 # O usuario irá digitar o comando e o terminal deve retornar sua explicação.
-# Para saisr digite 'FIM!'
+# Para sair digite 'FIM!'
 
 from time import sleep
 
