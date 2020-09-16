@@ -9,8 +9,7 @@ def ficha(nome ='', gols = ''):
         gols = 0
     return f'O jogador {nome} fez {gols} gols.'
         
-
-nome = str(input('Nome do jogador: ')).capitalize().strip()
+nome = str(input('Nome do jogador: ')).capitalize()
 gols = str(input('Gols marcados: '))
 
 print(ficha(nome,gols))

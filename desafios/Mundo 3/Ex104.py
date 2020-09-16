@@ -1,16 +1,18 @@
 # Desafio 104 - Aula 21: Programa que tenha a  função leiaInt(), que vai fazer a validação para aceirtar  apeenas valores numericos.
 
-def leiaInt(num):
-
+def leiaInt(msg):
+    ok = False
+    valor = 0
     while True:
-        if num.isnumeric():
-            return num
-            break
+        numero = str(input(msg))
+        if numero.isnumeric():
+            ok = True
+            valor = int(numero)
         else:
-            num = str(input('Digite um numero valido: '))
-
-
-# Programa Principal
-
-numero = str(input('Diga um numero: '))
-print(f'O numero digitado foi {leiaInt(numero)}.')
+            print('ERROO! Diga um numero inteiro valido!')
+        if ok == True:
+            break
+    return valor 
+    
+numero = leiaInt('Diga um numero: ')
+print(f'O numero digitado foi {numero}.')

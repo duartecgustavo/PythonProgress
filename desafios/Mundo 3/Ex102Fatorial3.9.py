@@ -1,6 +1,6 @@
 # Desafio 102 - Aula 21: Programa que tenha a FUNÇÃO() fatorial() e que receba  dois valores.
 # O primeiro que indique o numero  a ser calculado.
-# O segundo será  chamado de SHOW que  será um valor lógico (opcional) indicando se será mostrado ou não o processo de calculo do Fatorial.
+# O segundo será chamado de SHOW que será um valor lógico (opcional) indicando se será mostrado ou não o processo de calculo do Fatorial.
 
 
 def fatorial(num=0, show=0):
