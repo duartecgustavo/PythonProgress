@@ -1,5 +1,5 @@
 # Desafio 103 - Aula 21: Programa que tenha a função chamada ficha(), que receba 2 parâmetros opcionais: 
-# NOME do jogador e quantos GOLS ele fez.
+# Nome do jogador e quantos gols ele fez.
 # O programa deve mostrar a ficha com os dados do jogar, mesmo que nenhum valor tenha sido informado.
 
 def ficha(nome ='', gols = ''):
