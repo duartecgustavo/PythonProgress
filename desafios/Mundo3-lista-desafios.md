@@ -74,7 +74,7 @@
 95 - Gols 2.0 [:fleur_de_lis:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex095GOLS2.0.py)
 
 ---
-#### Aula 20 - Funções Pt1 [:link:]()
+#### Aula 20 - Funções Pt1 [:link:](https://www.youtube.com/watch?v=ezfr9d7wd_k&t=2452s)
 
 96 - Área() [:triangular_ruler:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex096FUN%C3%87%C3%95ES.py)
 
@@ -85,6 +85,21 @@
 99 - Maior() [:arrow_forward:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex099.py)
 
 100 - Sorteio() [:atm:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo%203/Ex100.py)
+
+---
+#### Aula 21 - Funções Pt2 [:link:](https://www.youtube.com/watch?v=etjJ_4Eqrk8)
+
+101 - Voto() [:ballot_box:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex101VOTO.py)
+
+102 - Fatorial() [:1234:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex102Fatorial3.9.py)
+
+103 - Jogador() [:soccer:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex103.py)
+
+104 - Validação numerica() [:mag:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex104.py)
+
+105 - Notas() [:bar_chart:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex105.py)
+
+106 - HELP() - EXTRA (CORES) [:medical_symbol:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex106CORES.py)
 
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
