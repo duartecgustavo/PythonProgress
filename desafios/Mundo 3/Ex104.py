@@ -1,4 +1,4 @@
-# Desafio 104 - Aula 21: Programa que tenha a  função leiaInt(), que vai fazer a validação para aceirtar  apeenas valores numericos.
+# Desafio 104 - Aula 21: Programa que tenha a função leiaInt() que vai fazer a validação para aceitar apenas valores numericos.
 
 def leiaInt(msg):
     ok = False
@@ -13,6 +13,7 @@ def leiaInt(msg):
         if ok == True:
             break
     return valor 
-    
+
+# Programa principal
 numero = leiaInt('Diga um numero: ')
 print(f'O numero digitado foi {numero}.')
