@@ -1,4 +1,4 @@
-# Desafio 105 - Aula 21: Programa que tenha a função notas() que pode  receber varias notas de alunos e retornará um dicionario com as seguintes informações.
+# Desafio 105 - Aula 21: Programa que tenha a função notas(), que pode receber varias notas e retornará um dicionario com as seguintes informações.
 # Quantidade de notas.
 # A maior Nota.
 # A menor Nota.
@@ -35,6 +35,7 @@ def notas(*num, sit = False):
     dict = {'Quantidade': quant, 'Maior': maior, 'Menor': menor, 'Média': media, 'Situação': sit}
     return dict
 
+# Programa principal
 
 resp = notas(9.9, 8, 5.6, 3)
 print(resp)
