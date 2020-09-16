@@ -39,6 +39,8 @@
 
 * Cores . . . . . . . . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/EXTRA%20-%20CORES.md)
 
+* Planilha Excel . . . . loading . . . . [:link:](https://github.com/duartecgustavo/PythonProgress/blob/master/conteudo/EXTRA%20-%20BD%20EXCEL.py)
 
+* Estrutura de Validação . . loading . . [:link:](https://github.com/duartecgustavo/PythonProgress/blob/master/conteudo/EXTRA%20-%20VALIDA%C3%87%C3%83O.md)
 
 [:arrow_backward:](https://github.com/duartecgustavo/Python-Progress)
