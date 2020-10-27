@@ -1,3 +1,5 @@
+# Desafio 114 - Aula 22 : Estrutura de funções que valide se o numero é inteiro ou float com módulo.
+
 def leiaInt(msg):
     while True:
         try:
