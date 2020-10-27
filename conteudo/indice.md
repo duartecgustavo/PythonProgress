@@ -36,6 +36,10 @@
 
 * Funções Pt2 . . . . . loading . . . . . .[:link:](https://github.com/ikatyang/emoji-cheat-sheet#person-sport)
 
+* Modularização . . . . . loading . . . . . .[:lik:]()
+
+* Tratamento de erros . . . . . loading . . . . . .[:lik:]()
+
 ---
 ### Extra
 
