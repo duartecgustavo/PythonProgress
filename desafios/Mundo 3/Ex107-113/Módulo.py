@@ -7,11 +7,6 @@ def fatorial(num):
         print(f)
     return f
 
-
-def linha():
-    print('-' * 30)
-
-
 # Desafio 107 - Aula 22: Criar um móodulo chamado moeda.py que tenha funções incorporadas.
 # aumentar() | diminuir() | dobro() | metade()
 # E desenvolva um programa  que importe este módulo e rode essas funções;
@@ -119,3 +114,5 @@ def validaint(msg):
         if ok == True:
             break
     return valor
+
+# --------------------------------//-----//--------------------------------67
