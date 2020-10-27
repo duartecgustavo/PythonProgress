@@ -107,6 +107,7 @@
 107 | 109 - Manipulando Moeda [:moneybag:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/Ex107-112Main.py) + [:outbox_tray:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/M%C3%B3dulo.py)
 110 | 111 - Formatando salário [:money_with_wings:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/Ex110.py) + [:outbox_tray:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/M%C3%B3dulo.py)
 
+---
 #### Aula 23 - Tratamento de Erros e Exceções [:link:](https://www.youtube.com/watch?v=xz2B3bfNjEk)
 
 112 - Validação de salário [:chart:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/Ex112Valida.py) + [:outbox_tray:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/M%C3%B3dulo.py)
