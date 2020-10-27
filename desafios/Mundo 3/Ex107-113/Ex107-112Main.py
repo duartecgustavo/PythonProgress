@@ -1,3 +1,7 @@
+# Desafio 107 - Aula 22: Criar um móodulo chamado moeda.py que tenha funções incorporadas.
+# aumentar() | diminuir() | dobro() | metade()
+# E desenvolva um programa  que importe este módulo e rode essas funções;
+
 import Modulos
 
 salario = float(input('Informe seu salario: '))
