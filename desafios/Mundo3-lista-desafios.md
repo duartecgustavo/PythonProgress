@@ -105,6 +105,7 @@
 #### Aula 22 - Modularização [:link:](https://www.youtube.com/watch?v=s3r8_Aug4y8)
 
 107 | 109 - Manipulando Moeda [:moneybag:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/Ex107-112Main.py) + [:outbox_tray:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/M%C3%B3dulo.py)
+
 110 | 111 - Formatando salário [:money_with_wings:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/Ex110.py) + [:outbox_tray:](https://github.com/duartecgustavo/PythonProgress/blob/master/desafios/Mundo%203/Ex107-113/M%C3%B3dulo.py)
 
 ---
