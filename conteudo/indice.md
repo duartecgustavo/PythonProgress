@@ -1,10 +1,5 @@
 ### Conteúdo :world_map:
 
-##### Certificado [:page_facing_up:](https://github.com/duartecgustavo/PythonProgress/blob/master/certificados/Certificado%20Mundo%203%20Python.pdf)
-
-* _Para acessar cada desafio, clique no icone ao lado._
-
----
 ### Mundo 1 :earth_asia: | [:page_facing_up:](https://github.com/duartecgustavo/PythonProgress/blob/master/certificados/Certificado%20Mundo%201%20Python.pdf)
 
 * Print / Input . . . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.0-print-input.md)
