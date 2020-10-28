@@ -5,7 +5,7 @@
 * _Para acessar cada desafio, clique no icone ao lado._
 
 ---
-### Mundo 1 :earth_asia:
+### Mundo 1 :earth_asia: | [:page_facing_up:](https://github.com/duartecgustavo/PythonProgress/blob/master/certificados/Certificado%20Mundo%201%20Python.pdf)
 
 * Print / Input . . . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.0-print-input.md)
 
@@ -20,7 +20,7 @@
 * Manipulação de Dados . . . . . [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.5-analise-de-dados.md)
 
 ---
-### Mundo 2 :earth_americas:
+### Mundo 2 :earth_americas: | [:page_facing_up:](https://github.com/duartecgustavo/PythonProgress/blob/master/certificados/Certificado%20Mundo%202%20Python.pdf)
 
 * Condições IF e ELSE . . . . . . . . [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/1.6-condi%C3%A7%C3%B5es-if-else.md)
 
@@ -29,7 +29,7 @@
 * Laços de repetição WHILE . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/2.1-la%C3%A7o-while.md)
 
 ---
-### Mundo 3 :earth_africa:
+### Mundo 3 :earth_africa: | [:page_facing_up:](https://github.com/duartecgustavo/PythonProgress/blob/master/certificados/Certificado%20Mundo%203%20Python.pdf)
 
 * Tuplas . . . . . . . . . . . . . . . . . . . .[:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/conteudo/3-tuplas.md)
 
