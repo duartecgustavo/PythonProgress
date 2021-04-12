@@ -34,8 +34,4 @@ Neste repositório você pode encontrar minha lista de exercicios que estou atua
    - Sendo **8 aulas** que compreendem desde estruturas de armazenamento de dados como `tuplas`, `listas` e `dicionarios` até `funções` e `tratamento de erros`.
    - Contém **46 desafios [:link:](https://github.com/duartecgustavo/Python-Progress/blob/master/desafios/Mundo3-lista-desafios.md)** praticos sobre os conceitos abordados.
 
-
-![1 3-1](https://user-images.githubusercontent.com/65131471/93386595-5111c000-f83e-11ea-8bcf-0a00dd2a2a3d.png)
-
-
 [:arrow_left:](https://github.com/duartecgustavo)
